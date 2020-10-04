@@ -1,0 +1,73 @@
+<pretext>
+  <book xml:id="book-regtes-hypgeo">
+    <title>Regular Tessellations and Hyperbolic Geometry</title>
+	<subtitle>An approach by constructions (without terms and formulas)</subtitle>
+
+
+    <chapter xml:id="chapter-regtes">
+        <title>Regular Tessellations</title>
+
+        <p>
+          We start by considering which regular tessellations can exist in the Euclidean plane and ask whether there could be other regular tiling in other geometries. We answer this question (for the time being) with a picture in which the regular tessellations of spherical, Euclidean and hyperbolic geometry are summarized and take this as a motivation to start looking for hyperbolic geometry.
+        </p>
+    </chapter>
+	
+	<chapter xml:id="chapter-eucgeo">
+        <title>Euclidean Geometry from another Perspective</title>
+
+        <p>
+          We deal with Euclidean line reflections and recognize that these are something like the atomic building blocks of Euclidean geometry.
+        </p>
+    </chapter>
+	
+	<chapter xml:id="chapter-hypgeo1">
+        <title>Hyperbolic Points, Lines and Angles</title>
+
+        <p>
+          We define points, lines and angles in the Poincaré model of hyperbolic geometry.
+        </p>
+    </chapter>
+	
+	<chapter xml:id="chapter-circinv">
+        <title>Circle Inversion</title>
+
+        <p>
+          We define the circle inversion in the Euclidean plane and work out important constructions and properties of this surprising and at the same time intuitive mapping.
+        </p>
+    </chapter>
+	
+	<chapter xml:id="chapter-hypgeo2">
+        <title>Hyperbolic line reflections, perpendicular Bisectors and Circles</title>
+
+        <p>
+          We learn how the hyperbolic line through two hyperbolic points can be constructed by circle inversion. Then we define the reflection on a hyperbolic line - of course also with circle inversion. With the tool of hyperbolic line reflection we are then able to introduce the hyperbolic perpendicular bisector and a kind of hyperbolic distance. We use this to define hyperbolic circles and to classify them completely.
+        </p>
+    </chapter>
+	
+	<chapter xml:id="chapter-hypregtes">
+        <title>Hyperbolic regular Tessellations</title>
+
+        <p>
+          We construct the hyperbolic regular tessellations - with what has been worked out so far, this is pleasantly simple and intuitive.
+        </p>
+    </chapter>
+	
+	<chapter xml:id="chapter-spheuchypgeo">
+        <title>Spherical, Euclidean and hyperbolic Geometriy</title>
+
+        <p>
+          We compare essential properties of spherical, Euclidean and hyperbolic geometry.
+        </p>
+    </chapter>
+	
+	<chapter xml:id="chapter-histhypgeo">
+        <title>History of hyperbolic Geometry</title>
+
+        <p>
+          We take a look at selected aspects of the history of hyperbolic geometry.
+        </p>
+    </chapter>
+
+
+  </book>
+</pretext>
