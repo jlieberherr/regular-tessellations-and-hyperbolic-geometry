@@ -3,7 +3,7 @@ The pretextbook project associated with the book "Regular Tessellations and hype
 
 ## Installation of PreTeXt and xsltproc
 See [Setup](https://pretextbook.org/doc/author-guide/html/quickstart-setup.html).
-For installation of xsltproc on windows follow this [Instructions](https://pretextbook.org/doc/author-guide/html/installing-xsltproc.html)
+For installation of xsltproc on windows follow this [instructions](https://pretextbook.org/doc/author-guide/html/installing-xsltproc.html).
 
 ## Processing
 Run ```xsltproc /path/to/mathbook/xsl/mathbook-html.xsl /path/to/my-pretextbook-file.xml```
