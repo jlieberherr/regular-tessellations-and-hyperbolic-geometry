@@ -6,11 +6,38 @@
 
 
     <chapter xml:id="chapter-regtes">
-        <title>Regular Tessellations</title>
+      <title>Regular Tessellations</title>
+        <introduction>
+          <p>
+            We start by considering which regular tessellations can exist in the Euclidean plane and ask whether there could be other regular tessellations in other geometries. We answer this question (for the time being) with a picture in which the regular tessellations of spherical, Euclidean and hyperbolic geometry are summarized and take this as a motivation to start looking for hyperbolic geometry.
+          </p>
+        </introduction>
 
-        <p>
-          We start by considering which regular tessellations can exist in the Euclidean plane and ask whether there could be other regular tiling in other geometries. We answer this question (for the time being) with a picture in which the regular tessellations of spherical, Euclidean and hyperbolic geometry are summarized and take this as a motivation to start looking for hyperbolic geometry.
-        </p>
+        <section>
+          <title>Regular Tessellations in the Euclidean Plane</title>
+          <p>
+            A <em>tessellation</em> (or tiling) of the Euclidean plane is a covering of the whole plane with one or more geometric shapes, called tiles, with no overlaps an no gaps.
+          </p>
+          <p>
+            This definition is very general. The following figure shows four selected tessellations of the Euclidean plane:
+            <figure>
+              <caption>Four tessellations of the Euclidean plane</caption>
+              <sidebyside>
+                <image source="test_image.svg"></image>
+                <image source="test_image.svg"></image>
+              </sidebyside>
+              <sidebyside>
+                <image source="test_image.svg"></image>
+                <image source="test_image.svg"></image>
+              </sidebyside>
+            </figure>
+          </p>
+          <p>
+            Even it is a very interesting (and not at all easy) to understand tessellations in general, we will focus only on the so called regular ressellations. For this we first remember the concept of the regular <m>n</m>-gon. In the following <m>n</m> denotes a natural number greater or equal to <m>3</m>.
+            <definition>A regular <em><m>n</m>-gon</em> in the Euclidean plane is a ...</definition>
+            <definition>A <em>regular <m>n</m>-tessellation</em> of the Euclidean plane is a side-by-side covering with regular <m>n</m>-gons of the whole plane with no overlaps and no gaps. Side-by-side means, that every side of every regular <m>n</m>-gon coincides with exactly one side of another regular <m>n</m>-gon. For brevity we often omit the <m>n</m> and write <em>regular tesselation</em>.</definition>
+          </p>
+        </section>
     </chapter>
 	
 	<chapter xml:id="chapter-eucgeo">

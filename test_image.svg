@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="24.5993293297434cm"
+     height="24.54585252685265cm"
+     viewBox="0 0 459 458"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clipcdcb6622-abb1-4e8b-9def-346830efda98">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 418.87 231.84 C 418.87 334.16 335.92 417.10 233.61 417.10 C 131.29 417.10 48.347 334.16 48.347 231.84 C 48.347 129.53 131.29 46.583 233.61 46.583 C 335.92 46.583 418.87 129.53 418.87 231.84 z"/>
+<title>Kreis c</title>
+<desc>Kreis c: Kreis durch P_2 mit Mittelpunkt O</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<clipPath id="clipcf200557-3d73-4063-a065-ace95ced051d">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g fill-opacity=".098039" fill-rule="nonzero" stroke="none" fill="#006400">
+  <path d="M 227.00 202.58 C 214.32 205.44 204.93 216.14 203.73 229.09 L 233.61 231.84 z"/>
+<title>Winkel β</title>
+<desc>Winkel β: Winkel zwischen P_2, O, P_3</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clip813d66f6-4fbe-472e-84d5-10c83dc99844">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#006400">
+  <path d="M 227.00 202.58 C 214.32 205.44 204.93 216.14 203.73 229.09 L 233.61 231.84 z"/>
+<title>Winkel β</title>
+<desc>Winkel β: Winkel zwischen P_2, O, P_3</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clipdf015862-191f-431f-a38b-cdad3d1e0953">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#006400">
+  <path d="M 184.86 196.80 L 184.86 195.28 L 193.19 195.28 L 193.19 196.52 Q 191.97 197.83 190.76 199.99 Q 189.55 202.16 188.89 204.45 Q 188.41 206.08 188.28 208.00 L 186.66 208.00 Q 186.69 206.48 187.26 204.33 Q 187.83 202.17 188.89 200.17 Q 189.95 198.17 191.16 196.80 L 184.86 196.80 z M 203.07 206.48 L 203.07 208.00 L 194.56 208.00 Q 194.54 207.42 194.75 206.91 Q 195.07 206.03 195.78 205.19 Q 196.50 204.34 197.85 203.23 Q 199.95 201.52 200.69 200.51 Q 201.43 199.50 201.43 198.61 Q 201.43 197.66 200.76 197.02 Q 200.09 196.38 199.01 196.38 Q 197.85 196.38 197.17 197.06 Q 196.50 197.75 196.48 198.95 L 194.85 198.78 Q 195.03 196.97 196.11 196.02 Q 197.20 195.06 199.04 195.06 Q 200.89 195.06 201.97 196.09 Q 203.06 197.12 203.06 198.64 Q 203.06 199.41 202.74 200.16 Q 202.42 200.91 201.68 201.73 Q 200.95 202.56 199.25 204.00 Q 197.82 205.20 197.42 205.62 Q 197.01 206.05 196.76 206.48 L 203.07 206.48 z M 205.15 197.33 Q 205.15 196.31 205.87 195.60 Q 206.58 194.89 207.58 194.89 Q 208.60 194.89 209.31 195.60 Q 210.02 196.31 210.02 197.33 Q 210.02 198.34 209.31 199.05 Q 208.60 199.77 207.58 199.77 Q 206.58 199.77 205.87 199.05 Q 205.15 198.34 205.15 197.33 z M 206.10 197.33 Q 206.10 197.94 206.54 198.38 Q 206.97 198.81 207.58 198.81 Q 208.19 198.81 208.63 198.38 Q 209.07 197.94 209.07 197.33 Q 209.07 196.72 208.63 196.28 Q 208.19 195.84 207.58 195.84 Q 206.97 195.84 206.54 196.28 Q 206.10 196.72 206.10 197.33 z"/>
+<title>Winkel β</title>
+<desc>Winkel β: Winkel zwischen P_2, O, P_3</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clipf8fcce74-a9a1-4c12-8467-171ddcf5c568">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g fill-opacity=".098039" fill-rule="nonzero" stroke="none" fill="#006400">
+  <path d="M 365.30 125.34 C 361.51 134.16 362.17 144.26 367.07 152.52 C 371.98 160.77 380.54 166.18 390.10 167.06 L 392.86 137.19 z"/>
+<title>Winkel γ</title>
+<desc>Winkel γ: Winkel zwischen P_2, P_1, P_5</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clip91a55560-05f6-4c9b-a505-4a961a2a85d0">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#006400">
+  <path d="M 365.30 125.34 C 361.51 134.16 362.17 144.26 367.07 152.52 C 371.98 160.77 380.54 166.18 390.10 167.06 L 392.86 137.19 z"/>
+<title>Winkel γ</title>
+<desc>Winkel γ: Winkel zwischen P_2, P_1, P_5</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clip0f527e61-ea3a-4286-a47f-acc2c6367ed9">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#006400">
+  <path d="M 329.70 170.00 L 328.12 170.00 L 328.12 159.92 Q 327.55 160.47 326.62 161.01 Q 325.70 161.55 324.95 161.83 L 324.95 160.30 Q 326.28 159.67 327.28 158.78 Q 328.28 157.89 328.69 157.06 L 329.70 157.06 L 329.70 170.00 z M 333.76 163.64 Q 333.76 161.36 334.23 159.97 Q 334.70 158.58 335.63 157.82 Q 336.56 157.06 337.96 157.06 Q 339.00 157.06 339.78 157.48 Q 340.56 157.89 341.07 158.68 Q 341.57 159.47 341.87 160.60 Q 342.17 161.73 342.17 163.64 Q 342.17 165.91 341.70 167.30 Q 341.23 168.70 340.30 169.46 Q 339.37 170.22 337.96 170.22 Q 336.09 170.22 335.03 168.89 Q 333.76 167.28 333.76 163.64 z M 335.39 163.64 Q 335.39 166.81 336.13 167.87 Q 336.87 168.92 337.96 168.92 Q 339.04 168.92 339.79 167.87 Q 340.54 166.81 340.54 163.64 Q 340.54 160.47 339.79 159.42 Q 339.04 158.38 337.95 158.38 Q 336.85 158.38 336.20 159.30 Q 335.39 160.47 335.39 163.64 z M 346.21 163.02 Q 345.22 162.66 344.75 161.98 Q 344.27 161.31 344.27 160.39 Q 344.27 158.98 345.28 158.02 Q 346.29 157.06 347.97 157.06 Q 349.66 157.06 350.69 158.04 Q 351.71 159.02 351.71 160.42 Q 351.71 161.33 351.24 161.99 Q 350.77 162.66 349.82 163.02 Q 351.01 163.41 351.62 164.27 Q 352.24 165.12 352.24 166.31 Q 352.24 167.97 351.07 169.09 Q 349.90 170.22 347.99 170.22 Q 346.08 170.22 344.92 169.09 Q 343.76 167.95 343.76 166.27 Q 343.76 165.02 344.39 164.16 Q 345.02 163.31 346.21 163.02 z M 345.88 160.33 Q 345.88 161.25 346.47 161.83 Q 347.07 162.41 348.01 162.41 Q 348.91 162.41 349.50 161.83 Q 350.08 161.25 350.08 160.42 Q 350.08 159.55 349.48 158.95 Q 348.88 158.36 347.99 158.36 Q 347.08 158.36 346.48 158.94 Q 345.88 159.52 345.88 160.33 z M 345.38 166.28 Q 345.38 166.95 345.70 167.59 Q 346.02 168.22 346.65 168.57 Q 347.29 168.92 348.02 168.92 Q 349.15 168.92 349.89 168.19 Q 350.63 167.45 350.63 166.33 Q 350.63 165.19 349.87 164.45 Q 349.10 163.70 347.96 163.70 Q 346.85 163.70 346.12 164.44 Q 345.38 165.17 345.38 166.28 z M 354.16 159.33 Q 354.16 158.31 354.88 157.60 Q 355.59 156.89 356.59 156.89 Q 357.61 156.89 358.32 157.60 Q 359.03 158.31 359.03 159.33 Q 359.03 160.34 358.32 161.05 Q 357.61 161.77 356.59 161.77 Q 355.59 161.77 354.88 161.05 Q 354.16 160.34 354.16 159.33 z M 355.11 159.33 Q 355.11 159.94 355.55 160.38 Q 355.99 160.81 356.59 160.81 Q 357.20 160.81 357.64 160.38 Q 358.08 159.94 358.08 159.33 Q 358.08 158.72 357.64 158.28 Q 357.20 157.84 356.59 157.84 Q 355.99 157.84 355.55 158.28 Q 355.11 158.72 355.11 159.33 z"/>
+<title>Winkel γ</title>
+<desc>Winkel γ: Winkel zwischen P_2, P_1, P_5</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+<clipPath id="clip9e35694f-36c2-48f4-ba3a-a5e3a91e97d8">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 392.86 137.19 L 192.80 51.133"/>
+<title>Strecke f</title>
+<desc>Strecke f: Strecke P_1, P_2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+<clipPath id="clipeb0b1bc4-f1f7-4f1f-882c-81824a70c5e0">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 192.80 51.133 L 49.132 214.81"/>
+<title>Strecke g</title>
+<desc>Strecke g: Strecke P_2, P_3</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+<clipPath id="clip94804f55-6001-481c-83db-ca50ba069f72">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 49.132 214.81 L 160.40 402.03"/>
+<title>Strecke h</title>
+<desc>Strecke h: Strecke P_3, P_4</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+<clipPath id="clip66202a5a-dbb5-484b-a22e-07af4a4688f2">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 160.40 402.03 L 372.84 354.06"/>
+<title>Strecke i</title>
+<desc>Strecke i: Strecke P_4, P_5</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+<clipPath id="clip82a9885b-f958-46d9-972c-dfeaf50b0cea">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 372.84 354.06 L 392.86 137.19"/>
+<title>Strecke j</title>
+<desc>Strecke j: Strecke P_5, P_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+<clipPath id="clip3eb9b994-c616-48d1-8282-7a9a27cbbd14">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 233.61 231.84 L 192.80 51.133"/>
+<title>Strecke k</title>
+<desc>Strecke k: Strecke O, P_2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+<clipPath id="clipe3b97413-835a-4057-8c11-caa3631afdb1">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 233.61 231.84 L 49.132 214.81"/>
+<title>Strecke l</title>
+<desc>Strecke l: Strecke O, P_3</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+<clipPath id="clip81ffe866-b226-471d-9766-657a48d1fd5b">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 235.61 231.84 C 235.61 232.95 234.71 233.84 233.61 233.84 C 232.50 233.84 231.61 232.95 231.61 231.84 C 231.61 230.74 232.50 229.84 233.61 229.84 C 234.71 229.84 235.61 230.74 235.61 231.84 z"/>
+<title>Punkt O</title>
+<desc>O = (0, 0)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+<clipPath id="clipe5b3b6cd-1af6-4e28-a996-4504d753c341">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 235.61 231.84 C 235.61 232.95 234.71 233.84 233.61 233.84 C 232.50 233.84 231.61 232.95 231.61 231.84 C 231.61 230.74 232.50 229.84 233.61 229.84 C 234.71 229.84 235.61 230.74 235.61 231.84 z"/>
+<title>Punkt O</title>
+<desc>O = (0, 0)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+<clipPath id="clipa4d5a758-2c68-43b7-ba4e-3c10c2419289">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 397.86 137.19 C 397.86 139.95 395.62 142.19 392.86 142.19 C 390.10 142.19 387.86 139.95 387.86 137.19 C 387.86 134.43 390.10 132.19 392.86 132.19 C 395.62 132.19 397.86 134.43 397.86 137.19 z"/>
+<title>Punkt P_1</title>
+<desc>P_1 = (0.85, 0.51)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+<clipPath id="clip1c2743b9-5d53-425a-9caa-5e1e51cadda5">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 397.86 137.19 C 397.86 139.95 395.62 142.19 392.86 142.19 C 390.10 142.19 387.86 139.95 387.86 137.19 C 387.86 134.43 390.10 132.19 392.86 132.19 C 395.62 132.19 397.86 134.43 397.86 137.19 z"/>
+<title>Punkt P_1</title>
+<desc>P_1 = (0.85, 0.51)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+<clipPath id="clip017028ca-a90d-40d0-8e56-e94ae5947f57">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 406.39 127.00 L 406.39 114.11 L 411.25 114.11 Q 412.53 114.11 413.20 114.23 Q 414.16 114.39 414.80 114.84 Q 415.44 115.28 415.83 116.09 Q 416.22 116.89 416.22 117.84 Q 416.22 119.48 415.17 120.62 Q 414.12 121.77 411.41 121.77 L 408.09 121.77 L 408.09 127.00 L 406.39 127.00 z M 408.09 120.23 L 411.42 120.23 Q 413.08 120.23 413.77 119.62 Q 414.47 119.02 414.47 117.89 Q 414.47 117.08 414.06 116.51 Q 413.66 115.94 412.98 115.75 Q 412.55 115.64 411.39 115.64 L 408.09 115.64 L 408.09 120.23 z"/>
+<title>Punkt P_1</title>
+<desc>P_1 = (0.85, 0.51)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+<clipPath id="clip9103659c-9898-4f47-b208-c55da90c78bb">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 422.97 135.00 L 421.57 135.00 L 421.57 126.03 Q 421.05 126.52 420.23 127.00 Q 419.41 127.48 418.76 127.73 L 418.76 126.38 Q 419.93 125.81 420.81 125.02 Q 421.69 124.23 422.07 123.50 L 422.97 123.50 L 422.97 135.00 z"/>
+<title>Punkt P_1</title>
+<desc>P_1 = (0.85, 0.51)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+<clipPath id="clipf2744e75-60fd-4c1a-a5b6-5dbe79b971f1">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 197.80 51.133 C 197.80 53.895 195.56 56.133 192.80 56.133 C 190.04 56.133 187.80 53.895 187.80 51.133 C 187.80 48.372 190.04 46.133 192.80 46.133 C 195.56 46.133 197.80 48.372 197.80 51.133 z"/>
+<title>Punkt P_2</title>
+<desc>Punkt P_2: P_1 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+<clipPath id="clip72b4b34e-0687-4655-8d4e-5950e3bd3513">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 197.80 51.133 C 197.80 53.895 195.56 56.133 192.80 56.133 C 190.04 56.133 187.80 53.895 187.80 51.133 C 187.80 48.372 190.04 46.133 192.80 46.133 C 195.56 46.133 197.80 48.372 197.80 51.133 z"/>
+<title>Punkt P_2</title>
+<desc>Punkt P_2: P_1 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+<clipPath id="clip8af1fd9f-f963-46e5-aab7-a424b1e6dc3a">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 183.39 36.000 L 183.39 23.109 L 188.25 23.109 Q 189.53 23.109 190.20 23.234 Q 191.16 23.391 191.80 23.836 Q 192.44 24.281 192.83 25.086 Q 193.22 25.891 193.22 26.844 Q 193.22 28.484 192.17 29.625 Q 191.12 30.766 188.41 30.766 L 185.09 30.766 L 185.09 36.000 L 183.39 36.000 z M 185.09 29.234 L 188.42 29.234 Q 190.08 29.234 190.77 28.625 Q 191.47 28.016 191.47 26.891 Q 191.47 26.078 191.06 25.508 Q 190.66 24.938 189.98 24.750 Q 189.55 24.641 188.39 24.641 L 185.09 24.641 L 185.09 29.234 z"/>
+<title>Punkt P_2</title>
+<desc>Punkt P_2: P_1 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+<clipPath id="clipbd737a70-52e0-4daa-b271-576c3d4d9514">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 202.07 42.641 L 202.07 44.000 L 194.49 44.000 Q 194.47 43.484 194.66 43.016 Q 194.94 42.250 195.58 41.500 Q 196.22 40.750 197.43 39.766 Q 199.29 38.234 199.94 37.336 Q 200.60 36.438 200.60 35.641 Q 200.60 34.812 200.01 34.234 Q 199.41 33.656 198.44 33.656 Q 197.43 33.656 196.82 34.266 Q 196.21 34.875 196.21 35.953 L 194.76 35.812 Q 194.91 34.188 195.88 33.344 Q 196.85 32.500 198.47 32.500 Q 200.13 32.500 201.09 33.414 Q 202.05 34.328 202.05 35.672 Q 202.05 36.359 201.77 37.023 Q 201.49 37.688 200.83 38.422 Q 200.18 39.156 198.66 40.438 Q 197.40 41.500 197.04 41.883 Q 196.68 42.266 196.44 42.641 L 202.07 42.641 z"/>
+<title>Punkt P_2</title>
+<desc>Punkt P_2: P_1 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip24 -->
+<clipPath id="clip5a8e7a64-c2fa-4619-bda4-a49e61a43455">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 54.132 214.81 C 54.132 217.57 51.893 219.81 49.132 219.81 C 46.371 219.81 44.132 217.57 44.132 214.81 C 44.132 212.05 46.371 209.81 49.132 209.81 C 51.893 209.81 54.132 212.05 54.132 214.81 z"/>
+<title>Punkt P_3</title>
+<desc>Punkt P_3: P_2 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip25 -->
+<clipPath id="clip5240c13e-9f18-445e-9096-24231b95c0c3">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 54.132 214.81 C 54.132 217.57 51.893 219.81 49.132 219.81 C 46.371 219.81 44.132 217.57 44.132 214.81 C 44.132 212.05 46.371 209.81 49.132 209.81 C 51.893 209.81 54.132 212.05 54.132 214.81 z"/>
+<title>Punkt P_3</title>
+<desc>Punkt P_3: P_2 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip26 -->
+<clipPath id="clip49f97327-9ca8-4a46-be3c-fead30a48aa5">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 19.391 217.00 L 19.391 204.11 L 24.250 204.11 Q 25.531 204.11 26.203 204.23 Q 27.156 204.39 27.797 204.84 Q 28.438 205.28 28.828 206.09 Q 29.219 206.89 29.219 207.84 Q 29.219 209.48 28.172 210.62 Q 27.125 211.77 24.406 211.77 L 21.094 211.77 L 21.094 217.00 L 19.391 217.00 z M 21.094 210.23 L 24.422 210.23 Q 26.078 210.23 26.773 209.62 Q 27.469 209.02 27.469 207.89 Q 27.469 207.08 27.062 206.51 Q 26.656 205.94 25.984 205.75 Q 25.547 205.64 24.391 205.64 L 21.094 205.64 L 21.094 210.23 z"/>
+<title>Punkt P_3</title>
+<desc>Punkt P_3: P_2 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip27 -->
+<clipPath id="clip004a0182-aec8-4f7d-b95a-cbf869c2fb16">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 30.678 221.97 L 32.084 221.78 Q 32.334 222.98 32.912 223.51 Q 33.490 224.03 34.334 224.03 Q 35.318 224.03 36.006 223.34 Q 36.693 222.66 36.693 221.64 Q 36.693 220.67 36.061 220.05 Q 35.428 219.42 34.443 219.42 Q 34.053 219.42 33.459 219.58 L 33.615 218.34 Q 33.756 218.36 33.834 218.36 Q 34.740 218.36 35.459 217.89 Q 36.178 217.42 36.178 216.44 Q 36.178 215.67 35.654 215.16 Q 35.131 214.66 34.303 214.66 Q 33.475 214.66 32.928 215.17 Q 32.381 215.69 32.225 216.72 L 30.818 216.47 Q 31.084 215.05 31.998 214.27 Q 32.912 213.50 34.271 213.50 Q 35.209 213.50 35.998 213.90 Q 36.787 214.30 37.201 214.99 Q 37.615 215.69 37.615 216.47 Q 37.615 217.22 37.217 217.83 Q 36.818 218.44 36.037 218.80 Q 37.053 219.03 37.615 219.77 Q 38.178 220.50 38.178 221.61 Q 38.178 223.11 37.084 224.16 Q 35.990 225.20 34.318 225.20 Q 32.818 225.20 31.818 224.30 Q 30.818 223.41 30.678 221.97 z"/>
+<title>Punkt P_3</title>
+<desc>Punkt P_3: P_2 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip28 -->
+<clipPath id="clipbcda1451-1abe-43b2-8a0b-9857465e9986">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 165.40 402.03 C 165.40 404.79 163.16 407.03 160.40 407.03 C 157.64 407.03 155.40 404.79 155.40 402.03 C 155.40 399.27 157.64 397.03 160.40 397.03 C 163.16 397.03 165.40 399.27 165.40 402.03 z"/>
+<title>Punkt P_4</title>
+<desc>Punkt P_4: P_3 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip29 -->
+<clipPath id="clip4829df6f-d0fa-4674-9c3d-6c9303de00fd">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 165.40 402.03 C 165.40 404.79 163.16 407.03 160.40 407.03 C 157.64 407.03 155.40 404.79 155.40 402.03 C 155.40 399.27 157.64 397.03 160.40 397.03 C 163.16 397.03 165.40 399.27 165.40 402.03 z"/>
+<title>Punkt P_4</title>
+<desc>Punkt P_4: P_3 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip30 -->
+<clipPath id="clipce7b38e1-93c7-4090-b72f-40a75ee61b18">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 150.39 429.00 L 150.39 416.11 L 155.25 416.11 Q 156.53 416.11 157.20 416.23 Q 158.16 416.39 158.80 416.84 Q 159.44 417.28 159.83 418.09 Q 160.22 418.89 160.22 419.84 Q 160.22 421.48 159.17 422.62 Q 158.12 423.77 155.41 423.77 L 152.09 423.77 L 152.09 429.00 L 150.39 429.00 z M 152.09 422.23 L 155.42 422.23 Q 157.08 422.23 157.77 421.62 Q 158.47 421.02 158.47 419.89 Q 158.47 419.08 158.06 418.51 Q 157.66 417.94 156.98 417.75 Q 156.55 417.64 155.39 417.64 L 152.09 417.64 L 152.09 422.23 z"/>
+<title>Punkt P_4</title>
+<desc>Punkt P_4: P_3 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip31 -->
+<clipPath id="clipf9b4e453-acb4-4e89-a7bf-aa8485cbd379">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 166.18 437.00 L 166.18 434.25 L 161.21 434.25 L 161.21 432.97 L 166.44 425.55 L 167.58 425.55 L 167.58 432.97 L 169.13 432.97 L 169.13 434.25 L 167.58 434.25 L 167.58 437.00 L 166.18 437.00 z M 166.18 432.97 L 166.18 427.80 L 162.60 432.97 L 166.18 432.97 z"/>
+<title>Punkt P_4</title>
+<desc>Punkt P_4: P_3 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip32 -->
+<clipPath id="clipa7d81291-b025-46b2-8c53-ade70ea10068">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 377.84 354.06 C 377.84 356.82 375.60 359.06 372.84 359.06 C 370.08 359.06 367.84 356.82 367.84 354.06 C 367.84 351.29 370.08 349.06 372.84 349.06 C 375.60 349.06 377.84 351.29 377.84 354.06 z"/>
+<title>Punkt P_5</title>
+<desc>Punkt P_5: P_4 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip33 -->
+<clipPath id="clip90fb7095-3596-4b7b-85cb-a0e27c81f379">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 377.84 354.06 C 377.84 356.82 375.60 359.06 372.84 359.06 C 370.08 359.06 367.84 356.82 367.84 354.06 C 367.84 351.29 370.08 349.06 372.84 349.06 C 375.60 349.06 377.84 351.29 377.84 354.06 z"/>
+<title>Punkt P_5</title>
+<desc>Punkt P_5: P_4 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip34 -->
+<clipPath id="clip99f2b7b8-ad48-4cbd-94ee-3f4c6eae0cab">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 382.39 374.00 L 382.39 361.11 L 387.25 361.11 Q 388.53 361.11 389.20 361.23 Q 390.16 361.39 390.80 361.84 Q 391.44 362.28 391.83 363.09 Q 392.22 363.89 392.22 364.84 Q 392.22 366.48 391.17 367.62 Q 390.12 368.77 387.41 368.77 L 384.09 368.77 L 384.09 374.00 L 382.39 374.00 z M 384.09 367.23 L 387.42 367.23 Q 389.08 367.23 389.77 366.62 Q 390.47 366.02 390.47 364.89 Q 390.47 364.08 390.06 363.51 Q 389.66 362.94 388.98 362.75 Q 388.55 362.64 387.39 362.64 L 384.09 362.64 L 384.09 367.23 z"/>
+<title>Punkt P_5</title>
+<desc>Punkt P_5: P_4 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip35 -->
+<clipPath id="clip9c570d1f-67e5-4c9c-9e99-8ad37a525228">
+  <path d="M 0.0000 0.0000 L 0.0000 459.00 L 460.00 459.00 L 460.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#4d4dff">
+  <path d="M 393.68 379.00 L 395.15 378.88 Q 395.32 379.95 395.91 380.49 Q 396.51 381.03 397.35 381.03 Q 398.37 381.03 399.07 380.27 Q 399.77 379.50 399.77 378.23 Q 399.77 377.03 399.10 376.34 Q 398.43 375.64 397.33 375.64 Q 396.65 375.64 396.10 375.95 Q 395.55 376.27 395.24 376.75 L 393.93 376.58 L 395.04 370.70 L 400.72 370.70 L 400.72 372.05 L 396.16 372.05 L 395.54 375.12 Q 396.57 374.41 397.71 374.41 Q 399.21 374.41 400.24 375.45 Q 401.27 376.48 401.27 378.11 Q 401.27 379.67 400.37 380.80 Q 399.26 382.20 397.35 382.20 Q 395.79 382.20 394.80 381.32 Q 393.82 380.44 393.68 379.00 z"/>
+<title>Punkt P_5</title>
+<desc>Punkt P_5: P_4 gedreht um Winkel α</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip36 -->
+</g><!-- layer0 -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->
