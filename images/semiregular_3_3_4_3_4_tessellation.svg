@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="48.365783975245165cm"
+     height="25.53835005083663cm"
+     viewBox="0 0 1907 1006"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clip777cc008-901a-41ac-97ae-2da1021de0bf">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 186.45 192.50 L 581.16 192.50 L 383.80 -149.32 z"/>
+<title>Vieleck Vieleck1</title>
+<desc>Vieleck Vieleck1: Vieleck(A, B, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<clipPath id="clip8bb80ba8-b316-452b-910e-961fc45a803e">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L 581.16 192.50 L 383.80 -149.32 z"/>
+<title>Vieleck Vieleck1</title>
+<desc>Vieleck Vieleck1: Vieleck(A, B, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clipac579fd8-88ca-4cb6-8482-a4e32e3c412b">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 581.16 192.50 L 186.45 192.50 L 383.80 534.32 z"/>
+<title>Vieleck Vieleck2</title>
+<desc>Vieleck Vieleck2: Vieleck(B, A, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="cliped6c9dd0-6237-4895-82de-9fbdc665a6d1">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 192.50 L 186.45 192.50 L 383.80 534.32 z"/>
+<title>Vieleck Vieleck2</title>
+<desc>Vieleck Vieleck2: Vieleck(B, A, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clip42bbdde9-03cc-4cb1-be00-cf1e32e3ad20">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 383.80 534.32 L 186.45 192.50 L -155.37 389.85 L 41.984 731.67 z"/>
+<title>Vieleck Vieleck3</title>
+<desc>Vieleck Vieleck3: Vieleck(D, A, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clipada9b12d-9f92-4b80-a886-ecbc6faace10">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 534.32 L 186.45 192.50 L -155.37 389.85 L 41.984 731.67 z"/>
+<title>Vieleck Vieleck3</title>
+<desc>Vieleck Vieleck3: Vieleck(D, A, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clip23390114-050d-4879-acca-861ae15bceac">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M -155.37 389.85 L 186.45 192.50 L -155.37 -4.8513 z"/>
+<title>Vieleck Vieleck4</title>
+<desc>Vieleck Vieleck4: Vieleck(E, A, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+<clipPath id="clipbf599ca4-fb9a-47e4-949a-fa4e9cb5add2">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M -155.37 389.85 L 186.45 192.50 L -155.37 -4.8513 z"/>
+<title>Vieleck Vieleck4</title>
+<desc>Vieleck Vieleck4: Vieleck(E, A, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+<clipPath id="clip65ca6d77-1da3-419d-8a81-ecd176a7c448">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M -155.37 -4.8513 L 186.45 192.50 L 383.80 -149.32 L 41.984 -346.67 z"/>
+<title>Vieleck Vieleck5</title>
+<desc>Vieleck Vieleck5: Vieleck(G, A, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+<clipPath id="clip247df9d3-1446-4632-9824-359bec59570d">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M -155.37 -4.8513 L 186.45 192.50 L 383.80 -149.32 L 41.984 -346.67 z"/>
+<title>Vieleck Vieleck5</title>
+<desc>Vieleck Vieleck5: Vieleck(G, A, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+<clipPath id="clip554d402f-f179-45c5-93bb-af315e1afc78">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 41.984 731.67 L -155.37 389.85 L -352.72 731.67 z"/>
+<title>Vieleck Vieleck7</title>
+<desc>Vieleck Vieleck7: Vieleck(F, E, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+<clipPath id="clipda92873d-e340-4325-b0d8-ddaecbcfb866">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -155.37 389.85 L -352.72 731.67 z"/>
+<title>Vieleck Vieleck7</title>
+<desc>Vieleck Vieleck7: Vieleck(F, E, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+<clipPath id="clip9eb40ba3-a81a-411c-b314-06f222257ff9">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 383.80 534.32 L 41.984 731.67 L 383.80 929.02 z"/>
+<title>Vieleck Vieleck9</title>
+<desc>Vieleck Vieleck9: Vieleck(D, F, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+<clipPath id="clip5e40ce4d-cd7b-4f6f-a1d3-48f8368dd4bc">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 534.32 L 41.984 731.67 L 383.80 929.02 z"/>
+<title>Vieleck Vieleck9</title>
+<desc>Vieleck Vieleck9: Vieleck(D, F, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+<clipPath id="clip57e9ba09-5263-4ea0-a7b5-2bd2d32e11c8">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 383.80 -149.32 L 581.16 192.50 L 922.98 -4.8513 L 725.63 -346.67 z"/>
+<title>Vieleck Vieleck10</title>
+<desc>Vieleck Vieleck10: Vieleck(C, B, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+<clipPath id="clip1a1a3f04-c621-4267-86c0-07ef5108d789">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 -149.32 L 581.16 192.50 L 922.98 -4.8513 L 725.63 -346.67 z"/>
+<title>Vieleck Vieleck10</title>
+<desc>Vieleck Vieleck10: Vieleck(C, B, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+<clipPath id="clip7e137deb-e244-4054-9bdb-42e45b617c69">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 922.98 -4.8513 L 581.16 192.50 L 922.98 389.85 z"/>
+<title>Vieleck Vieleck12</title>
+<desc>Vieleck Vieleck12: Vieleck(N, B, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+<clipPath id="clipc69b4a2a-373e-4bcf-a1db-085d7a034c03">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 581.16 192.50 L 922.98 389.85 z"/>
+<title>Vieleck Vieleck12</title>
+<desc>Vieleck Vieleck12: Vieleck(N, B, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+<clipPath id="clip9f6bd703-602b-40af-9aa8-5369d5455442">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 922.98 389.85 L 581.16 192.50 L 383.80 534.32 L 725.63 731.67 z"/>
+<title>Vieleck Vieleck13</title>
+<desc>Vieleck Vieleck13: Vieleck(Q, B, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+<clipPath id="clip47bfd1e6-7e8e-460a-8203-9b6ad501e5f9">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 581.16 192.50 L 383.80 534.32 L 725.63 731.67 z"/>
+<title>Vieleck Vieleck13</title>
+<desc>Vieleck Vieleck13: Vieleck(Q, B, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+<clipPath id="clipd43f77d4-5a67-4ce0-a138-fe3afcdd5de7">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 725.63 731.67 L 383.80 534.32 L 383.80 929.02 z"/>
+<title>Vieleck Vieleck14</title>
+<desc>Vieleck Vieleck14: Vieleck(S, D, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+<clipPath id="clipe780fcfd-1ba8-4a7b-a74f-35c4afa49f38">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 383.80 534.32 L 383.80 929.02 z"/>
+<title>Vieleck Vieleck14</title>
+<desc>Vieleck Vieleck14: Vieleck(S, D, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+<clipPath id="clip539df45b-20b8-4e00-885f-2573a190c890">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 922.98 389.85 L 725.63 731.67 L 1120.3 731.67 z"/>
+<title>Vieleck Vieleck16</title>
+<desc>Vieleck Vieleck16: Vieleck(Q, S, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+<clipPath id="clipcec025bc-2017-403a-8ca8-bb5be079914f">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 725.63 731.67 L 1120.3 731.67 z"/>
+<title>Vieleck Vieleck16</title>
+<desc>Vieleck Vieleck16: Vieleck(Q, S, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip24 -->
+<clipPath id="clip132c3c3c-9c04-4c52-8f8b-7b81070e0a34">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 725.63 731.67 L 383.80 929.02 L 581.16 1270.8 L 922.98 1073.5 z"/>
+<title>Vieleck Vieleck17</title>
+<desc>Vieleck Vieleck17: Vieleck(S, M, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip25 -->
+<clipPath id="clipd3a5b270-3a76-46c1-a63e-fcd22658e96c">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 383.80 929.02 L 581.16 1270.8 L 922.98 1073.5 z"/>
+<title>Vieleck Vieleck17</title>
+<desc>Vieleck Vieleck17: Vieleck(S, M, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip26 -->
+<clipPath id="clip41b8be69-8afb-4a8a-b38a-d13a47ab5984">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 581.16 1270.8 L 383.80 929.02 L 186.45 1270.8 z"/>
+<title>Vieleck Vieleck18</title>
+<desc>Vieleck Vieleck18: Vieleck(W, M, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip27 -->
+<clipPath id="clip7213f9e4-7e73-4fdf-a266-388cc02b13d9">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 1270.8 L 383.80 929.02 L 186.45 1270.8 z"/>
+<title>Vieleck Vieleck18</title>
+<desc>Vieleck Vieleck18: Vieleck(W, M, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip28 -->
+<clipPath id="clip30daddd0-a095-43a9-9358-78045263f96e">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 383.80 929.02 L 41.984 731.67 L -155.37 1073.5 L 186.45 1270.8 z"/>
+<title>Vieleck Vieleck19</title>
+<desc>Vieleck Vieleck19: Vieleck(M, F, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip29 -->
+<clipPath id="clip13cd0a9a-e524-437d-93d9-e5be7e2cb93b">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 41.984 731.67 L -155.37 1073.5 L 186.45 1270.8 z"/>
+<title>Vieleck Vieleck19</title>
+<desc>Vieleck Vieleck19: Vieleck(M, F, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip30 -->
+<clipPath id="clip38a11730-0cff-4b57-a77d-d869c131f077">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 41.984 731.67 L -352.72 731.67 L -155.37 1073.5 z"/>
+<title>Vieleck Vieleck20</title>
+<desc>Vieleck Vieleck20: Vieleck(F, K, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip31 -->
+<clipPath id="clip39063f3c-b250-4f6d-aa26-6fab658b07a5">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -352.72 731.67 L -155.37 1073.5 z"/>
+<title>Vieleck Vieleck20</title>
+<desc>Vieleck Vieleck20: Vieleck(F, K, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip32 -->
+<clipPath id="clipc2caded0-f60c-43ec-b6b4-831a4e5f91ee">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 725.63 731.67 L 922.98 1073.5 L 1120.3 731.67 z"/>
+<title>Vieleck Vieleck21</title>
+<desc>Vieleck Vieleck21: Vieleck(S, Z, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip33 -->
+<clipPath id="clipdeada45b-9a3c-474b-b650-67467462a209">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 922.98 1073.5 L 1120.3 731.67 z"/>
+<title>Vieleck Vieleck21</title>
+<desc>Vieleck Vieleck21: Vieleck(S, Z, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip34 -->
+<clipPath id="clip26c367ca-b879-4843-8715-9f1e946b3337">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 922.98 389.85 L 1120.3 731.67 L 1462.1 534.32 L 1264.8 192.50 z"/>
+<title>Vieleck Vieleck22</title>
+<desc>Vieleck Vieleck22: Vieleck(Q, V, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip35 -->
+<clipPath id="clip2af08397-72c1-4645-8839-4a8ed7625305">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 1120.3 731.67 L 1462.1 534.32 L 1264.8 192.50 z"/>
+<title>Vieleck Vieleck22</title>
+<desc>Vieleck Vieleck22: Vieleck(Q, V, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip36 -->
+<clipPath id="clipbcae6747-3f2c-4cc3-959c-8ece31e8afef">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip37)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 922.98 -4.8513 L 922.98 389.85 L 1264.8 192.50 z"/>
+<title>Vieleck Vieleck23</title>
+<desc>Vieleck Vieleck23: Vieleck(N, Q, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip37 -->
+<clipPath id="clip69595f5f-9956-4690-a64d-a6b28c33ecc6">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip38)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 922.98 389.85 L 1264.8 192.50 z"/>
+<title>Vieleck Vieleck23</title>
+<desc>Vieleck Vieleck23: Vieleck(N, Q, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip38 -->
+<clipPath id="clip5e41d848-d3de-4457-9930-ec36bbe14527">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip39)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 922.98 -4.8513 L 1264.8 192.50 L 1462.1 -149.32 L 1120.3 -346.67 z"/>
+<title>Vieleck Vieleck24</title>
+<desc>Vieleck Vieleck24: Vieleck(N, G_1, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip39 -->
+<clipPath id="clip4e111687-bf66-4258-9cd7-faecca841527">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip40)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 1264.8 192.50 L 1462.1 -149.32 L 1120.3 -346.67 z"/>
+<title>Vieleck Vieleck24</title>
+<desc>Vieleck Vieleck24: Vieleck(N, G_1, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip40 -->
+<clipPath id="clip5672d21e-4ffd-4167-b101-2c8c6c697c63">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip41)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1462.1 -149.32 L 1264.8 192.50 L 1659.5 192.50 z"/>
+<title>Vieleck Vieleck25</title>
+<desc>Vieleck Vieleck25: Vieleck(I_1, G_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip41 -->
+<clipPath id="clip3c6b6cdb-d486-4590-9c57-eec076d8d46d">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip42)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 -149.32 L 1264.8 192.50 L 1659.5 192.50 z"/>
+<title>Vieleck Vieleck25</title>
+<desc>Vieleck Vieleck25: Vieleck(I_1, G_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip42 -->
+<clipPath id="clipb492f5e3-82e6-4f17-95e4-a3f290448506">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip43)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1659.5 192.50 L 1264.8 192.50 L 1462.1 534.32 z"/>
+<title>Vieleck Vieleck26</title>
+<desc>Vieleck Vieleck26: Vieleck(K_1, G_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip43 -->
+<clipPath id="clipb11192bf-996d-46de-b99b-02f9f45fb85c">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip44)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1264.8 192.50 L 1462.1 534.32 z"/>
+<title>Vieleck Vieleck26</title>
+<desc>Vieleck Vieleck26: Vieleck(K_1, G_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip44 -->
+<clipPath id="clip4bed3d8a-6f3a-449f-add5-138fb6ea04b3">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip45)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1462.1 534.32 L 1120.3 731.67 L 1462.1 929.02 z"/>
+<title>Vieleck Vieleck27</title>
+<desc>Vieleck Vieleck27: Vieleck(F_1, V, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip45 -->
+<clipPath id="clip3772f249-df7d-4ea1-a639-85165a3356e7">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip46)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1120.3 731.67 L 1462.1 929.02 z"/>
+<title>Vieleck Vieleck27</title>
+<desc>Vieleck Vieleck27: Vieleck(F_1, V, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip46 -->
+<clipPath id="clip5b75f230-368a-4936-a419-d66de149ce7a">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip47)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1462.1 929.02 L 1120.3 731.67 L 922.98 1073.5 L 1264.8 1270.8 z"/>
+<title>Vieleck Vieleck28</title>
+<desc>Vieleck Vieleck28: Vieleck(M_1, V, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip47 -->
+<clipPath id="clip524be629-ed52-4018-b1c5-3bb285358ae6">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip48)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1120.3 731.67 L 922.98 1073.5 L 1264.8 1270.8 z"/>
+<title>Vieleck Vieleck28</title>
+<desc>Vieleck Vieleck28: Vieleck(M_1, V, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip48 -->
+<clipPath id="clipb48cbf43-6d68-49d1-bd86-a3f06d602472">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip49)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1462.1 534.32 L 1462.1 929.02 L 1804.0 731.67 z"/>
+<title>Vieleck Vieleck31</title>
+<desc>Vieleck Vieleck31: Vieleck(F_1, M_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip49 -->
+<clipPath id="clip226d1d8e-b9b0-4cb3-baa4-0cf27a5df5ec">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip50)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1462.1 929.02 L 1804.0 731.67 z"/>
+<title>Vieleck Vieleck31</title>
+<desc>Vieleck Vieleck31: Vieleck(F_1, M_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip50 -->
+<clipPath id="clipcdfd45fb-3eb7-4c37-be17-0215ab51b02a">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip51)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1804.0 731.67 L 1462.1 929.02 L 1659.5 1270.8 L 2001.3 1073.5 z"/>
+<title>Vieleck Vieleck32</title>
+<desc>Vieleck Vieleck32: Vieleck(R_1, M_1, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip51 -->
+<clipPath id="clip6c907c94-944e-46d0-b1d0-8d8af0b771e5">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip52)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1462.1 929.02 L 1659.5 1270.8 L 2001.3 1073.5 z"/>
+<title>Vieleck Vieleck32</title>
+<desc>Vieleck Vieleck32: Vieleck(R_1, M_1, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip52 -->
+<clipPath id="clipf8df868d-c3ef-4fa4-80b2-e960b09290b0">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip53)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1659.5 1270.8 L 1462.1 929.02 L 1264.8 1270.8 z"/>
+<title>Vieleck Vieleck33</title>
+<desc>Vieleck Vieleck33: Vieleck(S_1, M_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip53 -->
+<clipPath id="clip74d40ff2-3da5-4c9c-8854-300a922d24a8">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip54)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 1270.8 L 1462.1 929.02 L 1264.8 1270.8 z"/>
+<title>Vieleck Vieleck33</title>
+<desc>Vieleck Vieleck33: Vieleck(S_1, M_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip54 -->
+<clipPath id="clip0cf2a566-d96d-4391-baaa-951bdd409f96">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip55)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1462.1 534.32 L 1804.0 731.67 L 2001.3 389.85 L 1659.5 192.50 z"/>
+<title>Vieleck Vieleck34</title>
+<desc>Vieleck Vieleck34: Vieleck(F_1, R_1, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip55 -->
+<clipPath id="clipa65c3113-740b-4396-b58c-425846849cd2">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip56)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1804.0 731.67 L 2001.3 389.85 L 1659.5 192.50 z"/>
+<title>Vieleck Vieleck34</title>
+<desc>Vieleck Vieleck34: Vieleck(F_1, R_1, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip56 -->
+<clipPath id="clip1b187d26-3a25-40dc-a4a0-90b7b6f8b51c">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip57)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1659.5 192.50 L 2001.3 389.85 L 2001.3 -4.8513 z"/>
+<title>Vieleck Vieleck51</title>
+<desc>Vieleck Vieleck51: Vieleck(K_1, V_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip57 -->
+<clipPath id="clip4e80543d-1ca0-4146-b575-2c4f8c01dfa2">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip58)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 2001.3 389.85 L 2001.3 -4.8513 z"/>
+<title>Vieleck Vieleck51</title>
+<desc>Vieleck Vieleck51: Vieleck(K_1, V_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip58 -->
+<clipPath id="clipda2a1f0d-20fb-45f6-bbd1-e38ee760b1be">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip59)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 1659.5 192.50 L 2001.3 -4.8513 L 1804.0 -346.67 L 1462.1 -149.32 z"/>
+<title>Vieleck Vieleck52</title>
+<desc>Vieleck Vieleck52: Vieleck(K_1, V_2, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip59 -->
+<clipPath id="clipb4959e09-ec4b-4a36-aa07-d53adfa4ca3c">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip60)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 2001.3 -4.8513 L 1804.0 -346.67 L 1462.1 -149.32 z"/>
+<title>Vieleck Vieleck52</title>
+<desc>Vieleck Vieleck52: Vieleck(K_1, V_2, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip60 -->
+<clipPath id="clipeccc0c6d-0869-4543-b688-76a5ee9bc814">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip61)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 2001.3 389.85 L 1804.0 731.67 L 2198.7 731.67 z"/>
+<title>Vieleck Vieleck53</title>
+<desc>Vieleck Vieleck53: Vieleck(V_1, R_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip61 -->
+<clipPath id="clip607a689c-4da4-4ed5-9144-bd546caaf048">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip62)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 2001.3 389.85 L 1804.0 731.67 L 2198.7 731.67 z"/>
+<title>Vieleck Vieleck53</title>
+<desc>Vieleck Vieleck53: Vieleck(V_1, R_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip62 -->
+<clipPath id="clipc992921b-59ce-4361-8b71-4b661c496ff1">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip63)">
+<g fill-opacity=".098039" fill-rule="evenodd" stroke="none" fill="#993300">
+  <path d="M 2198.7 731.67 L 1804.0 731.67 L 2001.3 1073.5 z"/>
+<title>Vieleck Vieleck54</title>
+<desc>Vieleck Vieleck54: Vieleck(A_3, R_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip63 -->
+<clipPath id="clipd4d53428-066f-4584-97f1-3c08cc69ab90">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip64)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 2198.7 731.67 L 1804.0 731.67 L 2001.3 1073.5 z"/>
+<title>Vieleck Vieleck54</title>
+<desc>Vieleck Vieleck54: Vieleck(A_3, R_1, 3)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip64 -->
+<clipPath id="clip6262ecaa-c2c3-4134-abd0-a98d492253d8">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip65)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L 581.16 192.50"/>
+<title>Strecke f</title>
+<desc>Strecke f: Strecke A, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip65 -->
+<clipPath id="clip722b3e4d-e99a-4ffd-8642-ec96c1e98ee6">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip66)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 192.50 L 467.13 -5.0000"/>
+<title>Strecke g</title>
+<desc>Strecke g: Strecke B, C</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip66 -->
+<clipPath id="clipb7a8c454-2102-4936-9759-f6830e0928ae">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip67)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L 300.48 -5.0000"/>
+<title>Strecke h</title>
+<desc>Strecke h: Strecke C, A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip67 -->
+<clipPath id="clip4564993f-2b5e-48af-89f0-87f9ac07bf40">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip68)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 192.50 L 186.45 192.50"/>
+<title>Strecke i</title>
+<desc>Strecke i: Strecke B, A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip68 -->
+<clipPath id="clip6c335560-eccd-4bc7-8033-cf01c2542703">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip69)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L 383.80 534.32"/>
+<title>Strecke j</title>
+<desc>Strecke j: Strecke A, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip69 -->
+<clipPath id="clipc91ae5f1-6abb-418e-a4a3-7117ebd38d29">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip70)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 534.32 L 581.16 192.50"/>
+<title>Strecke k</title>
+<desc>Strecke k: Strecke D, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip70 -->
+<clipPath id="clipd81d19bd-f2a5-48d3-aa93-5895105b5f1e">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip71)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 534.32 L 186.45 192.50"/>
+<title>Strecke l</title>
+<desc>Strecke l: Strecke D, A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip71 -->
+<clipPath id="clip3d2a2527-f72e-4b63-9cd6-612f37d362c2">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip72)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L -5.0000 303.04"/>
+<title>Strecke m</title>
+<desc>Strecke m: Strecke A, E</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip72 -->
+<clipPath id="clip7f1d3a84-ad20-4a24-84f4-0b99f92420e2">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip73)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -5.0000 650.29"/>
+<title>Strecke n</title>
+<desc>Strecke n: Strecke E, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip73 -->
+<clipPath id="clip058d3fd8-65f2-467b-8b33-d76029f57a3e">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip74)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L 383.80 534.32"/>
+<title>Strecke p</title>
+<desc>Strecke p: Strecke F, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip74 -->
+<clipPath id="clipf727cabc-e7a5-4f16-9321-16d58dc7db15">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip75)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L -5.0000 303.04"/>
+<title>Strecke q</title>
+<desc>Strecke q: Strecke E, A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip75 -->
+<clipPath id="clip5d092994-706d-4a82-9fc5-5bfe3b41b2c4">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip76)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L -5.0000 81.963"/>
+<title>Strecke r</title>
+<desc>Strecke r: Strecke A, G</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip76 -->
+<clipPath id="clip4e18e377-288d-46ec-a9c1-b20e0acf8c10">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip77)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L -5.0000 81.963"/>
+<title>Strecke t</title>
+<desc>Strecke t: Strecke G, A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip77 -->
+<clipPath id="clipea628be8-de2f-4123-ab95-e643a62e569a">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip78)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 186.45 192.50 L 300.48 -5.0000"/>
+<title>Strecke a</title>
+<desc>Strecke a: Strecke A, H</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip78 -->
+<clipPath id="clipc5c6e972-618c-45f0-a452-f589d80d9a2c">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip79)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -5.0000 650.29"/>
+<title>Strecke g_1</title>
+<desc>Strecke g_1: Strecke F, E</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip79 -->
+<clipPath id="clip8657a363-2959-486f-a037-576530bf0d4c">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip80)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -5.0000 731.67"/>
+<title>Strecke i_1</title>
+<desc>Strecke i_1: Strecke K, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip80 -->
+<clipPath id="clip53b12bc8-2df6-459e-9950-387665d3f682">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip81)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 534.32 L 41.984 731.67"/>
+<title>Strecke m_1</title>
+<desc>Strecke m_1: Strecke D, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip81 -->
+<clipPath id="clipe035e32a-c1bc-4df8-8032-679f806dcaa0">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip82)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L 383.80 929.02"/>
+<title>Strecke n_1</title>
+<desc>Strecke n_1: Strecke F, M</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip82 -->
+<clipPath id="clip65dc5fef-894f-495d-b135-7086366ce865">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip83)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 383.80 534.32"/>
+<title>Strecke p_1</title>
+<desc>Strecke p_1: Strecke M, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip83 -->
+<clipPath id="clip5a848df3-65c6-4f4c-9bbb-b93f8e87b7ce">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip84)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 192.50 L 467.13 -5.0000"/>
+<title>Strecke q_1</title>
+<desc>Strecke q_1: Strecke C, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip84 -->
+<clipPath id="clip08004f74-0397-42c5-ab5d-f0112a43389a">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip85)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 192.50 L 922.98 -4.8513"/>
+<title>Strecke r_1</title>
+<desc>Strecke r_1: Strecke B, N</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip85 -->
+<clipPath id="clip5dfbca71-301f-435a-9208-ad25b7c3e12d">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip86)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 922.89 -5.0000"/>
+<title>Strecke s_1</title>
+<desc>Strecke s_1: Strecke N, O</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip86 -->
+<clipPath id="clipe1f5f324-c8ef-4059-b29f-1b26f199beea">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip87)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 581.16 192.50"/>
+<title>Strecke d_1</title>
+<desc>Strecke d_1: Strecke N, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip87 -->
+<clipPath id="clipa3f03e27-d0ef-4eed-9f52-3008d3e4ee67">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip88)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 192.50 L 922.98 389.85"/>
+<title>Strecke e_1</title>
+<desc>Strecke e_1: Strecke B, Q</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip88 -->
+<clipPath id="clipd14dfb74-6f7b-49ec-b8f1-7d6f4a6b5f92">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip89)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 922.98 -4.8513"/>
+<title>Strecke f_2</title>
+<desc>Strecke f_2: Strecke Q, N</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip89 -->
+<clipPath id="clip1c907bde-298e-4486-aa19-5a2d62e84b0a">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip90)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 581.16 192.50"/>
+<title>Strecke g_2</title>
+<desc>Strecke g_2: Strecke Q, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip90 -->
+<clipPath id="clipcbe6591e-4062-44f0-b3db-dc2b55b15f6b">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip91)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 581.16 192.50 L 383.80 534.32"/>
+<title>Strecke h_2</title>
+<desc>Strecke h_2: Strecke B, R</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip91 -->
+<clipPath id="clipdafd6a07-cd20-41e3-9108-6028f8e3b684">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip92)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 534.32 L 725.63 731.67"/>
+<title>Strecke i_2</title>
+<desc>Strecke i_2: Strecke R, S</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip92 -->
+<clipPath id="clipdb8d7ca8-9c6d-4f58-b629-a19428e225c4">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip93)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 922.98 389.85"/>
+<title>Strecke j_2</title>
+<desc>Strecke j_2: Strecke S, Q</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip93 -->
+<clipPath id="clip24811f22-bc97-4a17-8279-f5aba20c1166">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip94)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 383.80 534.32"/>
+<title>Strecke k_2</title>
+<desc>Strecke k_2: Strecke S, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip94 -->
+<clipPath id="clip54f5f243-a1c0-4e73-bd9f-448cf213a6b9">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip95)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 534.32 L 383.80 929.02"/>
+<title>Strecke l_2</title>
+<desc>Strecke l_2: Strecke D, T</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip95 -->
+<clipPath id="clip57cd09f9-0658-4b7c-b956-b8634ee0f30a">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip96)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 725.63 731.67"/>
+<title>Strecke m_2</title>
+<desc>Strecke m_2: Strecke T, S</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip96 -->
+<clipPath id="clip71470177-3eba-4e1c-83f2-db4cc4010454">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip97)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 922.89 -5.0000"/>
+<title>Strecke n_2</title>
+<desc>Strecke n_2: Strecke O, N</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip97 -->
+<clipPath id="clip79bff123-c940-4cd0-bd24-f6d19776bfea">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip98)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 923.06 -5.0000"/>
+<title>Strecke p_2</title>
+<desc>Strecke p_2: Strecke N, U</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip98 -->
+<clipPath id="clip5f6bb774-c8df-49a8-8430-23cb8fc181d7">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip99)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 725.63 731.67"/>
+<title>Strecke r_2</title>
+<desc>Strecke r_2: Strecke Q, S</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip99 -->
+<clipPath id="clip0b27d03f-830b-49f8-85f5-db4c16503c2b">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip100)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 1120.3 731.67"/>
+<title>Strecke s_2</title>
+<desc>Strecke s_2: Strecke S, V</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip100 -->
+<clipPath id="clip193f6e5c-b09c-42f4-b1d8-2a65d945759b">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip101)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1120.3 731.67 L 922.98 389.85"/>
+<title>Strecke t_2</title>
+<desc>Strecke t_2: Strecke V, Q</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip101 -->
+<clipPath id="clip8a2ae0e3-d6e5-4745-9ca0-31bb31c23cb7">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip102)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 383.80 929.02"/>
+<title>Strecke a_2</title>
+<desc>Strecke a_2: Strecke S, M</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip102 -->
+<clipPath id="clip7c9cb5b3-f71f-4e17-b267-d7d92eb95729">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip103)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 432.29 1013.0"/>
+<title>Strecke b_2</title>
+<desc>Strecke b_2: Strecke M, W</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip103 -->
+<clipPath id="clip4074784a-4ecd-4862-aca5-fb4bc0ec8b9f">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip104)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 888.05 1013.0"/>
+<title>Strecke d_2</title>
+<desc>Strecke d_2: Strecke Z, S</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip104 -->
+<clipPath id="clip23a7361b-e4fc-4be8-b38e-6557c7bf1489">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip105)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 432.29 1013.0"/>
+<title>Strecke e_2</title>
+<desc>Strecke e_2: Strecke W, M</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip105 -->
+<clipPath id="clip20e0ae7c-032a-430a-a980-245538fd565f">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip106)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 335.32 1013.0"/>
+<title>Strecke f_3</title>
+<desc>Strecke f_3: Strecke M, A_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip106 -->
+<clipPath id="clip6916b5bc-984e-46e9-87cf-9f46a76460cd">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip107)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 41.984 731.67"/>
+<title>Strecke h_3</title>
+<desc>Strecke h_3: Strecke M, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip107 -->
+<clipPath id="clip0643d1a9-a095-4adf-b88e-d149a3e2c06d">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip108)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -5.0000 813.05"/>
+<title>Strecke i_3</title>
+<desc>Strecke i_3: Strecke F, B_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip108 -->
+<clipPath id="clipa4d300d8-df7f-4644-a848-e8d0502d8855">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip109)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 383.80 929.02 L 335.32 1013.0"/>
+<title>Strecke k_3</title>
+<desc>Strecke k_3: Strecke C_1, M</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip109 -->
+<clipPath id="clip9dc6413c-5c2d-49ec-8037-9a057b02a8be">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip110)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -5.0000 731.67"/>
+<title>Strecke l_3</title>
+<desc>Strecke l_3: Strecke F, K</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip110 -->
+<clipPath id="clipa9a13a77-a6dc-48cf-b297-36084812a920">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip111)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 41.984 731.67 L -5.0000 813.05"/>
+<title>Strecke n_3</title>
+<desc>Strecke n_3: Strecke D_1, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip111 -->
+<clipPath id="clip8d68eba7-89d7-4a1b-ad7b-e535b4a6630e">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip112)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 725.63 731.67 L 888.05 1013.0"/>
+<title>Strecke p_3</title>
+<desc>Strecke p_3: Strecke S, Z</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip112 -->
+<clipPath id="clipb3a48504-7db2-4e97-8704-91e6cec3e5b1">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip113)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1120.3 731.67 L 957.90 1013.0"/>
+<title>Strecke q_3</title>
+<desc>Strecke q_3: Strecke Z, E_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip113 -->
+<clipPath id="clip2a011ab4-09e9-4a7e-a5dd-081c529df0a8">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip114)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1120.3 731.67 L 725.63 731.67"/>
+<title>Strecke r_3</title>
+<desc>Strecke r_3: Strecke E_1, S</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip114 -->
+<clipPath id="clipa6546823-424d-4c19-a5c4-b7c1eaa4ef45">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip115)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 1120.3 731.67"/>
+<title>Strecke s_3</title>
+<desc>Strecke s_3: Strecke Q, V</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip115 -->
+<clipPath id="clip8fed5a08-e990-436c-915d-ad35ab2897ab">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip116)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1120.3 731.67 L 1462.1 534.32"/>
+<title>Strecke t_3</title>
+<desc>Strecke t_3: Strecke V, F_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip116 -->
+<clipPath id="clip03a0319d-fd11-4423-a77c-cfbe8b11aff5">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip117)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1264.8 192.50"/>
+<title>Strecke a_3</title>
+<desc>Strecke a_3: Strecke F_1, G_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip117 -->
+<clipPath id="clipb83603c7-f1ba-4754-a764-849ce476ec58">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip118)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1264.8 192.50 L 922.98 389.85"/>
+<title>Strecke b_3</title>
+<desc>Strecke b_3: Strecke G_1, Q</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip118 -->
+<clipPath id="clipfc14bf89-4794-4abe-8b05-54b2cfbc7eb3">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip119)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 922.98 389.85"/>
+<title>Strecke c_3</title>
+<desc>Strecke c_3: Strecke N, Q</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip119 -->
+<clipPath id="clip70eb1017-71a2-4fec-b072-b311afba4aff">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip120)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 389.85 L 1264.8 192.50"/>
+<title>Strecke d_3</title>
+<desc>Strecke d_3: Strecke Q, H_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip120 -->
+<clipPath id="clipaba8acc1-9f3c-47fb-94d8-cec0a0cdf00b">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip121)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1264.8 192.50 L 922.98 -4.8513"/>
+<title>Strecke e_3</title>
+<desc>Strecke e_3: Strecke H_1, N</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip121 -->
+<clipPath id="clip1ac34431-efa2-4bac-b9d4-d4c6de0f0683">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip122)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 1264.8 192.50"/>
+<title>Strecke f_4</title>
+<desc>Strecke f_4: Strecke N, G_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip122 -->
+<clipPath id="clipe31494cc-2b75-495f-b0a4-a360234c3aea">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip123)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1264.8 192.50 L 1378.8 -5.0000"/>
+<title>Strecke g_4</title>
+<desc>Strecke g_4: Strecke G_1, I_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip123 -->
+<clipPath id="clip275c142d-cc41-47e3-bba0-26b636c090a2">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip124)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 922.98 -4.8513 L 923.06 -5.0000"/>
+<title>Strecke i_4</title>
+<desc>Strecke i_4: Strecke J_1, N</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip124 -->
+<clipPath id="clipfdee43ab-cc30-4ac2-a8b0-8b5cd774b8a1">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip125)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1264.8 192.50 L 1378.8 -5.0000"/>
+<title>Strecke j_4</title>
+<desc>Strecke j_4: Strecke I_1, G_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip125 -->
+<clipPath id="clip344c2cbf-df37-4446-9c50-9721190caa72">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip126)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1264.8 192.50 L 1659.5 192.50"/>
+<title>Strecke k_4</title>
+<desc>Strecke k_4: Strecke G_1, K_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip126 -->
+<clipPath id="clipf989ac00-5c6f-4cf5-aabe-cbc9da9580cd">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip127)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1545.5 -5.0000"/>
+<title>Strecke l_4</title>
+<desc>Strecke l_4: Strecke K_1, I_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip127 -->
+<clipPath id="clip3d90278c-35ef-46f7-95e9-165497ae4f73">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip128)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1264.8 192.50"/>
+<title>Strecke m_4</title>
+<desc>Strecke m_4: Strecke K_1, G_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip128 -->
+<clipPath id="clip2962265c-a99f-417a-9175-50672e529fc6">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip129)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1264.8 192.50 L 1462.1 534.32"/>
+<title>Strecke n_4</title>
+<desc>Strecke n_4: Strecke G_1, L_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip129 -->
+<clipPath id="clipc615e693-582d-4fc0-99ee-a0e015a49545">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip130)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1659.5 192.50"/>
+<title>Strecke p_4</title>
+<desc>Strecke p_4: Strecke L_1, K_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip130 -->
+<clipPath id="clipf15f362d-f8b0-4307-8454-488538d813ca">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip131)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1120.3 731.67"/>
+<title>Strecke q_4</title>
+<desc>Strecke q_4: Strecke F_1, V</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip131 -->
+<clipPath id="clip03f1b315-36ad-400b-8ed7-dd6319b274f5">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip132)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1120.3 731.67 L 1462.1 929.02"/>
+<title>Strecke r_4</title>
+<desc>Strecke r_4: Strecke V, M_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip132 -->
+<clipPath id="clip33ccb0f4-d801-4496-a6f3-78bc0323f868">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip133)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1462.1 534.32"/>
+<title>Strecke s_4</title>
+<desc>Strecke s_4: Strecke M_1, F_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip133 -->
+<clipPath id="clip517819c2-b0d2-4e35-83a9-2e4971706ffa">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip134)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1120.3 731.67"/>
+<title>Strecke t_4</title>
+<desc>Strecke t_4: Strecke M_1, V</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip134 -->
+<clipPath id="clip5dfe99de-97ab-4f3b-95a3-c10e63b29b9d">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip135)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1120.3 731.67 L 957.90 1013.0"/>
+<title>Strecke a_4</title>
+<desc>Strecke a_4: Strecke V, N_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip135 -->
+<clipPath id="clip78560b69-d62f-4f8f-940f-c85765469b98">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip136)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1413.7 1013.0"/>
+<title>Strecke c_4</title>
+<desc>Strecke c_4: Strecke O_1, M_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip136 -->
+<clipPath id="clip8df6d82b-1b8f-4424-846f-2b200060fda0">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip137)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1462.1 929.02"/>
+<title>Strecke j_5</title>
+<desc>Strecke j_5: Strecke F_1, M_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip137 -->
+<clipPath id="clip285b08c8-60de-4fee-8011-b89827b681bc">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip138)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1804.0 731.67"/>
+<title>Strecke k_5</title>
+<desc>Strecke k_5: Strecke M_1, R_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip138 -->
+<clipPath id="clipee91fc12-8142-4abf-ae65-90b1759a4dca">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip139)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1462.1 534.32"/>
+<title>Strecke l_5</title>
+<desc>Strecke l_5: Strecke R_1, F_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip139 -->
+<clipPath id="clip40a7321a-c1b1-4052-98d0-95bc6e4bbaf9">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip140)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1462.1 929.02"/>
+<title>Strecke m_5</title>
+<desc>Strecke m_5: Strecke R_1, M_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip140 -->
+<clipPath id="clip19bc2506-c8cf-489a-97f3-93adc26481b9">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip141)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1510.6 1013.0"/>
+<title>Strecke n_5</title>
+<desc>Strecke n_5: Strecke M_1, S_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip141 -->
+<clipPath id="clip32114420-6ec4-45ca-a5bf-33c414f1b716">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip142)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1914.0 922.25"/>
+<title>Strecke q_5</title>
+<desc>Strecke q_5: Strecke T_1, R_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip142 -->
+<clipPath id="clipa828d107-d5ad-4090-9668-04704b1e48d1">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip143)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1510.6 1013.0"/>
+<title>Strecke r_5</title>
+<desc>Strecke r_5: Strecke S_1, M_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip143 -->
+<clipPath id="clip2a9f6331-a28b-43e0-8f87-c7c26ecec508">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip144)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 929.02 L 1413.7 1013.0"/>
+<title>Strecke s_5</title>
+<desc>Strecke s_5: Strecke M_1, U_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip144 -->
+<clipPath id="clipd406f279-f70f-4bcf-9fba-b7fefa27f74e">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip145)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1462.1 534.32 L 1804.0 731.67"/>
+<title>Strecke a_5</title>
+<desc>Strecke a_5: Strecke F_1, R_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip145 -->
+<clipPath id="clipacea6af5-ddbf-4d5c-acf3-e6b8daa23fe3">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip146)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1914.0 541.09"/>
+<title>Strecke b_5</title>
+<desc>Strecke b_5: Strecke R_1, V_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip146 -->
+<clipPath id="clipcd26dc68-819d-4388-9488-d29d0b43b280">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip147)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1914.0 339.44"/>
+<title>Strecke c_5</title>
+<desc>Strecke c_5: Strecke V_1, W_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip147 -->
+<clipPath id="clipe0e71295-4598-4cce-a4e2-5e6481bb66fc">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip148)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1462.1 534.32"/>
+<title>Strecke d_5</title>
+<desc>Strecke d_5: Strecke W_1, F_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip148 -->
+<clipPath id="clipa944913c-d89d-43e4-a03f-6521981901a0">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip149)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1914.0 339.44"/>
+<title>Strecke b_8</title>
+<desc>Strecke b_8: Strecke K_1, V_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip149 -->
+<clipPath id="clip350b8491-3164-421a-8ec5-8db7608b470d">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip150)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1914.0 45.562"/>
+<title>Strecke d_8</title>
+<desc>Strecke d_8: Strecke V_2, K_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip150 -->
+<clipPath id="clip596ef56e-3d49-472e-93a6-66cabe0e49c2">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip151)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1914.0 45.562"/>
+<title>Strecke e_8</title>
+<desc>Strecke e_8: Strecke K_1, V_2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip151 -->
+<clipPath id="clipbe7e2103-1708-4817-8cb0-000f313fb78c">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip152)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1659.5 192.50 L 1545.5 -5.0000"/>
+<title>Strecke h_9</title>
+<desc>Strecke h_9: Strecke Z_2, K_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip152 -->
+<clipPath id="clip9791d1e1-2005-4038-b838-aa2089482173">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip153)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1914.0 541.09"/>
+<title>Strecke i_9</title>
+<desc>Strecke i_9: Strecke V_1, R_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip153 -->
+<clipPath id="clipe68da95e-ea44-4e59-a14b-713c54cfe825">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip154)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1914.0 731.67"/>
+<title>Strecke j_9</title>
+<desc>Strecke j_9: Strecke R_1, A_3</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip154 -->
+<clipPath id="clip35e5f5f8-0a35-4e5a-8e0d-8f9be91816b8">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip155)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1914.0 731.67"/>
+<title>Strecke l_9</title>
+<desc>Strecke l_9: Strecke A_3, R_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip155 -->
+<clipPath id="clip68a582ed-4d62-4484-9cfb-5bdce1c7925f">
+  <path d="M 0.0000 0.0000 L 0.0000 1008.0 L 1909.0 1008.0 L 1909.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip156)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#993300">
+  <path d="M 1804.0 731.67 L 1914.0 922.25"/>
+<title>Strecke m_9</title>
+<desc>Strecke m_9: Strecke R_1, B_3</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip156 -->
+</g><!-- layer0 -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

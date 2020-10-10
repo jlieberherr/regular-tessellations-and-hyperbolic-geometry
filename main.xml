@@ -23,12 +23,12 @@
             <figure>
               <caption>Four tessellations of the Euclidean plane</caption>
               <sidebyside>
-                <image source="test_image.svg"></image>
-                <image source="test_image.svg"></image>
+                <image source="images/semiregular_3_3_4_3_4_tessellation.svg"></image>
+                <image source="images/cairo_tessellation.svg"></image>
               </sidebyside>
               <sidebyside>
-                <image source="test_image.svg"></image>
-                <image source="test_image.svg"></image>
+                <image source="images/test_image.svg"></image>
+                <image source="images/test_image.svg"></image>
               </sidebyside>
             </figure>
           </p>
