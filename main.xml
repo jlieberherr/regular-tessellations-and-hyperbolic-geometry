@@ -2,11 +2,12 @@
 <pretext>
   <book xml:id="book-regtes-hypgeo">
     <title>Regular Tessellations and hyperbolic Geometry</title>
-	<subtitle>An Approach by Constructions (without Terms and Formulas)</subtitle>
+    <subtitle>An Approach by Constructions (without Terms and Formulas)</subtitle>
 
 
     <chapter xml:id="chapter-regtes">
       <title>Regular Tessellations</title>
+
         <introduction>
           <p>
             We start by considering which regular tessellations can exist in the Euclidean plane and ask whether there could be other regular tessellations in other geometries. We answer this question (for the time being) with a picture in which the regular tessellations of spherical, Euclidean and hyperbolic geometry are summarized and take this as a motivation to start looking for hyperbolic geometry.
@@ -15,27 +16,57 @@
 
         <section>
           <title>Regular Tessellations in the Euclidean Plane</title>
+
           <p>
             A <em>tessellation</em> (or tiling) of the Euclidean plane is a covering of the whole plane with one or more geometric shapes, called tiles, with no overlaps an no gaps.
           </p>
           <p>
-            This definition is very general. The following figure shows four selected tessellations of the Euclidean plane:
-            <figure>
-              <caption>Four tessellations of the Euclidean plane</caption>
-              <sidebyside>
-                <image source="images/semiregular_3_3_4_3_4_tessellation.svg"></image>
-                <image source="images/cairo_tessellation.svg"></image>
+            This (not very precise) definition is very general. The following figure shows four selected tessellations of the Euclidean plane:
+              <sidebyside widths="49% 49%" margins="0% 0%">
+                <figure xml:id="semiregular_3_3_4_3_4_tessellation">
+                  <caption>The semiregular <m>(3, 3, 4, 3, 4)</m>-tessellation</caption>
+                  <image source="images/semiregular_3_3_4_3_4_tessellation.svg"></image>
+                </figure>
+                <figure xml:id="cairo_tessellation">
+                  <caption>The Cairo pentagonal tessellation</caption>
+                  <image source="images/cairo_tessellation.svg"></image>
+                </figure>
               </sidebyside>
-              <sidebyside>
-                <image source="images/test_image.svg"></image>
-                <image source="images/test_image.svg"></image>
+              <sidebyside  widths="49% 49%" margins="0% 0%">
+                <figure xml:id="semiregular_4_6_12_tessellation">
+                  <caption>The semiregular <m>(4, 6, 12)</m>-tessellation</caption>
+                  <image source="images/semiregular_4_6_12_tessellation.svg"></image>
+                </figure>
+                <figure xml:id="todo">
+                  <caption>todo</caption>
+                  <image source="images/test_image.svg"></image>
+                </figure>
               </sidebyside>
-            </figure>
+
+              <p>The tessellations in <xref ref="semiregular_3_3_4_3_4_tessellation"/> <xref ref="semiregular_4_6_12_tessellation"/> consist of different regular polygons. Such tessellations are called  <em>semiregular tessellations</em>. In the Euclidean plane there are exactly eight semiregular tesselations (see <xref ref="appendix-semregtes"/> for a more precise definition and a proof).</p>
+
+            <p>The tessellation in <xref ref="cairo_tessellation"/> is called <em>Cairo pentagonal tessellation</em>, since it can be found on streets in Cairo and since it consists of congruent pentagons. The Cairo pentagonal tessellation is dual to the semiregular <m>(3, 3, 4, 3, 4)</m>-tessellation: you get it by connecting the centers of adjacent tiles in the <m>(3, 3, 4, 3, 4)</m>-tessellation.</p>
           </p>
+          <exercise number="1">
+            <statement>
+              <ol>
+                <li><p>Construct the semiregular <m>(3, 3, 4, 3, 4)</m>-tessellation in <xref ref="semiregular_3_3_4_3_4_tessellation"/>, e.g. with GeoGebra.</p></li>
+                <li xml:id="exercise-cairo-tessellation"><p>Construct the Cairo pentagonal tessellationin <xref ref="cairo_tessellation"/> starting from the <m>(3, 3, 4, 3, 4)</m>-tessellation, e.g. with GeoGebra.</p></li>
+              </ol>
+              
+            </statement>
+            <hint>
+              <p>Two edges of a triangle coincide with an edge of a adjacent square, the third edge coincides with an edge of an adjacend triangle.</p>
+            </hint>
+          </exercise>
           <p>
-            Even it is a very interesting (and not at all easy) to understand tessellations in general, we will focus only on the so called regular ressellations. For this we first remember the concept of the regular <m>n</m>-gon. In the following <m>n</m> denotes a natural number greater or equal to <m>3</m>.
-            <definition>A regular <em><m>n</m>-gon</em> in the Euclidean plane is a ...</definition>
-            <definition>A <em>regular <m>n</m>-tessellation</em> of the Euclidean plane is a side-by-side covering with regular <m>n</m>-gons of the whole plane with no overlaps and no gaps. Side-by-side means, that every side of every regular <m>n</m>-gon coincides with exactly one side of another regular <m>n</m>-gon. For brevity we often omit the <m>n</m> and write <em>regular tesselation</em>.</definition>
+            Even it is very interesting (and not easy at all) to understand tessellations in general, we will focus only on the so called regular ressellations. For this we first remember the concept of the regular <m>n</m>-gon. In the following <m>n</m> denotes a natural number greater or equal to <m>3</m>.
+            <definition>
+              A regular <em><m>n</m>-gon</em> in the Euclidean plane is a ...
+            </definition>
+            <definition>
+              A <em>regular <m>n</m>-tessellation</em> of the Euclidean plane is a side-by-side covering with regular <m>n</m>-gons of the whole plane with no overlaps and no gaps. Side-by-side means, that every side of every regular <m>n</m>-gon coincides with exactly one side of another regular <m>n</m>-gon. For brevity we often omit the <m>n</m> and write <em>regular tesselation</em>.
+            </definition>
           </p>
         </section>
     </chapter>
@@ -43,58 +74,94 @@
 	<chapter xml:id="chapter-eucgeo">
         <title>Euclidean Geometry from another Perspective</title>
 
-        <p>
-          We deal with Euclidean line reflections and recognize that these are something like the atomic building blocks of Euclidean geometry.
-        </p>
+        <introduction>
+          <p>
+            We deal with Euclidean line reflections and recognize that these are something like the atomic building blocks of Euclidean geometry.
+          </p>
+        </introduction>
     </chapter>
 	
 	<chapter xml:id="chapter-hypgeo1">
         <title>Hyperbolic Points, Lines and Angles</title>
 
-        <p>
-          We define points, lines and angles in the Poincaré model of hyperbolic geometry.
-        </p>
+        <introduction>
+          <p>
+            We define points, lines and angles in the Poincaré model of hyperbolic geometry.
+          </p>
+        </introduction>
+
+        
     </chapter>
 	
 	<chapter xml:id="chapter-circinv">
         <title>Circle Inversion</title>
 
-        <p>
-          We define the circle inversion in the Euclidean plane and work out important constructions and properties of this surprising and at the same time intuitive mapping.
-        </p>
+        <introduction>
+          <p>
+            We define the circle inversion in the Euclidean plane and work out important constructions and properties of this surprising and at the same time intuitive mapping.
+          </p>
+        </introduction>
     </chapter>
 	
 	<chapter xml:id="chapter-hypgeo2">
         <title>Hyperbolic line reflections, perpendicular Bisectors and Circles</title>
 
-        <p>
-          We learn how the hyperbolic line through two hyperbolic points can be constructed by circle inversion. Then we define the reflection on a hyperbolic line - of course also with circle inversion. With the tool of hyperbolic line reflection we are then able to introduce the hyperbolic perpendicular bisector and a kind of hyperbolic distance. We use this to define hyperbolic circles and to classify them completely.
-        </p>
+        <introduction>
+          <p>
+            We learn how the hyperbolic line through two hyperbolic points can be constructed by circle inversion. Then we define the reflection on a hyperbolic line - of course also with circle inversion. With the tool of hyperbolic line reflection we are then able to introduce the hyperbolic perpendicular bisector and a kind of hyperbolic distance. We use this to define hyperbolic circles and to classify them completely.
+          </p>
+        </introduction>
     </chapter>
 	
 	<chapter xml:id="chapter-hypregtes">
         <title>Hyperbolic regular Tessellations</title>
 
-        <p>
-          We construct the hyperbolic regular tessellations - with what has been worked out so far, this is pleasantly simple and intuitive.
-        </p>
+        <introduction>
+          <p>
+            We construct the hyperbolic regular tessellations - with what has been worked out so far, this is pleasantly simple and intuitive.
+          </p>
+        </introduction>
     </chapter>
 	
 	<chapter xml:id="chapter-spheuchypgeo">
         <title>Spherical, Euclidean and hyperbolic Geometriy</title>
 
-        <p>
-          We compare essential properties of spherical, Euclidean and hyperbolic geometry.
-        </p>
+        <introduction>
+          <p>
+            We compare essential properties of spherical, Euclidean and hyperbolic geometry.
+          </p>
+        </introduction>
     </chapter>
 	
 	<chapter xml:id="chapter-histhypgeo">
         <title>History of hyperbolic Geometry</title>
 
-        <p>
-          We take a look at selected aspects of the history of hyperbolic geometry.
-        </p>
+        <introduction>
+          <p>
+            We take a look at selected aspects of the history of hyperbolic geometry.
+          </p>
+        </introduction>
     </chapter>
+
+    <appendix xml:id="appendix-semregtes">
+      <title>Semiregular Tessellations in the Euclidean Plane</title>
+
+      <introduction>
+          <p>
+            We show that there are exactly eight semiregular tessellations in the Euclidean plane.
+          </p>
+        </introduction>
+    </appendix>
+
+    <appendix xml:id="appendix-linref">
+      <title>Line Reflections are the atomic building Blocks of Euclidean Geometry</title>
+
+      <introduction>
+          <p>
+            We show that every distance preserving map in the Euclidean plane is a product of at most three line reflections.
+          </p>
+        </introduction>
+    </appendix>
 
 
   </book>
