@@ -40,9 +40,9 @@
                   <caption>The semiregular <m>(4, 6, 12)</m>-tessellation</caption>
                   <image source="images/semiregular_4_6_12_tessellation.svg"></image>
                 </figure>
-                <figure xml:id="todo">
-                  <caption>todo</caption>
-                  <image source="images/test_image.svg"></image>
+                <figure xml:id="non_side_by_side_square_tessellation">
+                  <caption>A tesselation with squares</caption>
+                  <image source="images/square_non_side_by_side_tessellation.svg"></image>
                 </figure>
               </sidebyside>
 
