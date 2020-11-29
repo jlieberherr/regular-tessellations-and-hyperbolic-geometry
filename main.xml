@@ -18,38 +18,41 @@
           <title>Regular Tessellations in the Euclidean Plane</title>
 
           <p>
-            A <em>tessellation</em> (or tiling) of the Euclidean plane is a covering of the whole plane with one or more geometric shapes, called tiles, with no overlaps an no gaps.
+            A <em>tessellation</em> (or <em>tiling</em>) of the Euclidean plane is a covering of the whole plane with one or more geometric shapes, called <em>tiles</em>, with no overlaps an no gaps. The following figures show four selected tessellations of the Euclidean plane.
+            <aside>
+              More precisely, a tessellation (or tiling) of the Euclidean plane <m>\mathbb{R}^2</m> is a locally finite familiy <m>(U_i)_{i\in I}</m> of bounded open sets <m>U_i\subset \mathbb{R}^2</m> such that these open sets does not intersect pairwise (<m>U_i \cap U_j = \emptyset </m> for all <m>i\neq j \in I</m>) and the union of the closures <m>\overline{U_i}</m>, the tiles, fill the whole plane (i.e. <m>\cup_{i\in I}\overline{U_i} = \mathbb{R}^2</m>). Locally finite means that every circle intersects only with finitely many of the <m>\overline{U_i}</m>
+            </aside> 
           </p>
-          <aside>
-              <p>More precisely, a tessellation (or tiling) of the Euclidean plane <m>\mathbb{R}^2</m> is a familiy <m>(U_i)_{i\in I}</m> of open sets <m>U_i\subset \mathbb{R}^2</m> such that <m>U_i \cap U_j = \emptyset </m> for all <m>i\neq j \in I</m> and <m>\cup_{i\in I}\overline{U_i} = \mathbb{R}^2</m>.</p>
-          </aside>
           <p>
-            This definition is very general. The following figure shows four selected tessellations of the Euclidean plane:
-              <sidebyside widths="49% 49%" margins="0% 0%">
-                <figure xml:id="semiregular_3_3_4_3_4_tessellation">
-                  <caption>The semiregular <m>(3, 3, 4, 3, 4)</m>-tessellation</caption>
-                  <image source="images/semiregular_3_3_4_3_4_tessellation.svg"></image>
-                </figure>
-                <figure xml:id="cairo_tessellation">
-                  <caption>The Cairo pentagonal tessellation</caption>
-                  <image source="images/cairo_tessellation.svg"></image>
-                </figure>
-              </sidebyside>
-              <sidebyside  widths="49% 49%" margins="0% 0%">
-                <figure xml:id="semiregular_4_6_12_tessellation">
-                  <caption>The semiregular <m>(4, 6, 12)</m>-tessellation</caption>
-                  <image source="images/semiregular_4_6_12_tessellation.svg"></image>
-                </figure>
-                <figure xml:id="non_side_by_side_square_tessellation">
-                  <caption>A tesselation with squares</caption>
-                  <image source="images/square_non_side_by_side_tessellation.svg"></image>
-                </figure>
-              </sidebyside>
-
-              <p>The tessellations in <xref ref="semiregular_3_3_4_3_4_tessellation"/> and <xref ref="semiregular_4_6_12_tessellation"/> consist of different regular polygons. Tessellations consisting of regular polygons are called  <em>semiregular tessellations</em>. In the Euclidean plane there are exactly eight semiregular tesselations (see <xref ref="appendix-semregtes"/> for a more precise definition and a proof).</p>
-
-            <p>The tessellation in <xref ref="cairo_tessellation"/> is called the <em>Cairo pentagonal tessellation</em>, since it can be found on streets in Cairo and since it consists of congruent pentagons. The Cairo pentagonal tessellation is dual to the semiregular <m>(3, 3, 4, 3, 4)</m>-tessellation in <xref ref="semiregular_3_3_4_3_4_tessellation"/> (you get it by connecting the centers of adjacent tiles).</p>
+            <sidebyside widths="49% 49%" margins="0% 0%">
+              <figure xml:id="semiregular_3_3_4_3_4_tessellation">
+                <caption>The semiregular <m>(3, 3, 4, 3, 4)</m>-tessellation</caption>
+                <image source="images/semiregular_3_3_4_3_4_tessellation.svg"></image>
+              </figure>
+              <figure xml:id="cairo_tessellation">
+                <caption>The Cairo pentagonal tessellation</caption>
+                <image source="images/cairo_tessellation.svg"></image>
+              </figure>
+            </sidebyside>
+            <sidebyside  widths="49% 49%" margins="0% 0%">
+              <figure xml:id="semiregular_4_6_12_tessellation">
+                <caption>The semiregular <m>(4, 6, 12)</m>-tessellation</caption>
+                <image source="images/semiregular_4_6_12_tessellation.svg"></image>
+              </figure>
+              <figure xml:id="non_side_by_side_square_tessellation">
+                <caption>A tesselation with squares</caption>
+                <image source="images/square_non_side_by_side_tessellation.svg"></image>
+              </figure>
+            </sidebyside>
           </p>
+          <p>
+            The tessellations in <xref ref="semiregular_3_3_4_3_4_tessellation"/> consist of regular <m>3</m>- and <m>4</m>-gons. <xref ref="semiregular_4_6_12_tessellation"/> consist of regular <m>4</m>-, <m>6</m>- and <m>12</m>-gons. Tessellations consisting of regular polygons are called  <em>semiregular tessellations</em>. In the Euclidean plane there are exactly eight semiregular tesselations (see <xref ref="appendix-semregtes"/> for a more precise definition and a proof).
+          </p>
+
+          <p>
+            The tessellation in <xref ref="cairo_tessellation"/> is called the <em>Cairo pentagonal tessellation</em>, since it can be found on streets in Cairo and since it consists of congruent pentagons. The Cairo pentagonal tessellation is dual to the semiregular <m>(3, 3, 4, 3, 4)</m>-tessellation in <xref ref="semiregular_3_3_4_3_4_tessellation"/> (you get it by connecting the centers of adjacent tiles).
+          </p>
+          <p>
           <activity number="1">
             <statement>
               <ol>
@@ -58,18 +61,29 @@
               </ol>
             </statement>
             <hint>
-              <p>In the <m>(3, 3, 4, 3, 4)</m>-tessellation, two edges of a triangle coincide with an edge of a adjacent square, the third edge coincides with an edge of an adjacend triangle.</p>
+              In the <m>(3, 3, 4, 3, 4)</m>-tessellation, two edges of a triangle coincide with an edge of a adjacent square, the third edge coincides with an edge of an adjacend triangle.
             </hint>
           </activity>
+        </p>
           <p>
             Even it is very interesting (and not easy at all) to understand tessellations in general, we will focus only on the so called regular ressellations. For this, we first remember the concept of the regular <m>n</m>-gon. In the following, <m>n</m> denotes a natural number <m>\geq 3</m>.
             <definition>
-              A <em>regular <m>n</m>-gon</em> or <em>regular polygon</em> in the Euclidean plane is a polygon that is equiangular and equilateral. More precisely, a regular <m>n</m>-gon is a set of  points <m>P_1, P_2, ..., P_n \in \mathbb{R}^2</m> in the Eulidean plane which lie on a circle and whose distance between neighboring points is the same.
+              A <em>regular <m>n</m>-gon</em> or <em>regular polygon</em> in the Euclidean plane is a polygon consisting of <m>n</m> sides that is equiangular (all interior angles between neighboring sides are equal) and equilateral (all sides have the same length).
               <figure xml:id="regular_polygon">
                 <caption>Regular <m>5</m>-gon</caption>
                 <image source="images/test_image.svg" width="50%"></image>
               </figure>
             </definition>
+            <lemma>
+              The <m>n</m> vertices of a regular <m>n</m>-gon lie on a circle. The <em>center</em> angle, i.e. the angle between two neighoring vertices with the center of the circle, equals <m>360° / n</m>.  The <em>interior</em> angle (the interior angle between to neighboring sides) equals <m>180° - \frac{360°}{n}</m>.
+            </lemma>
+            <activity number="2">
+              <statement>
+                <p>Show that the interior angle of a regular <m>n</m>-gon equals <m>180° - \frac{360°}{n}</m>.</p>
+              </statement>
+            </activity>
+          </p>
+          <p>
             <definition>
               A <em>regular <m>n</m>-tessellation</em> of the Euclidean plane is a side-by-side covering with regular <m>n</m>-gons of the whole plane with no overlaps and no gaps. Side-by-side means, that every side of every regular <m>n</m>-gon coincides with exactly one side of another regular <m>n</m>-gon. For brevity we often omit the <m>n</m> and write <em>regular tesselation</em>.
             </definition>
@@ -102,24 +116,24 @@
                     <p>It is clear that two regular <m>n</m>-gons which have a common side are congruent. Let <m>A</m> and <m>A'</m> be two regular <m>n</m>-gons. Since the tessellation fills the whole plane it is possible to find a sequence <m>A=A_1, A_2, ..., A_k=A'</m> of <m>n</m>-gons such that two subsequent <m>n</m>-gons share a common side. Hence <m>A</m> and <m>B</m> are congruent.</p>
                   </li>
                   <li>
-                    <p>Let <m>m</m> be the number of <m>n</m>-gons coming together in any corner. Since all occuring <m>n</m>-gons are congruent, the outer angle of any of these <m>n</m>-gon must equal <m></m>\frac{360°}{m}. Or, inversely, the number <m>m</m> o congruent <m>n</m>-gons comint together in any corner must equal <m>360°/\alpha</m>, where <m>\alpha</m> is the outer angle of the congruent <m>n</m>-gons.</p>
+                    <p>Let <m>m</m> be the number of <m>n</m>-gons coming together in any corner. Since all occuring <m>n</m>-gons are congruent, the interior angle of any of these <m>n</m>-gon must equal <m>\frac{360°}{m}</m>. Or, inversely, the number <m>m</m> of congruent <m>n</m>-gons coming together in any vertice must equal <m>360°/\alpha</m>, where <m>\alpha</m> is the interior angle of the congruent <m>n</m>-gons.</p>
                   </li>
                 </ol>
               </proof>
             </lemma>
           </p>
-          In the following we denote by <m>m\geq 3</m> the number of <m>n</m>-gons comming together in every corner of a regular tessellation and denote such a regular tesselation as a regular <m>(n,m)</m>-tessellation.
+          In the following we denote by <m>m\geq 3</m> the number of <m>n</m>-gons comming together in every vertice of a regular tessellation and denote such a regular tesselation as a regular <m>(n,m)</m>-tessellation.
           <theorem>
             <p>
-              For a regular <m>(n,m)</m>-tessellation of the Euclidean plane, the equation <m>\frac{1}{n} + \frac{1}{m} = \frac{1}{2}</m> holds. Since the <m>(n,m)</m>-pairs <m>(3,6)</m>, <m>(4,4)</m> and <m>(6,3)</m> are the only three solutions to this equation for natural <m>n,m\geq 3</m>, the three tessellations shown in <xref ref="regular_3_6_tessellation"/>, <xref ref="regular_4_4_tessellation"/> and <xref ref="regular_6_3_tessellation"/> are the only regular tessallation in the Eulidean plan.
+              For a regular <m>(n,m)</m>-tessellation of the Euclidean plane, the equation <m>\frac{1}{n} + \frac{1}{m} = \frac{1}{2}</m> holds. The only solutions (for natural <m>n,m\geq 3</m>) to this equation are the <m>(n,m)</m>-pairs <m>(3,6)</m>, <m>(4,4)</m> and <m>(6,3)</m>. Hence the three tessellations shown in <xref ref="regular_3_6_tessellation"/>, <xref ref="regular_4_4_tessellation"/> and <xref ref="regular_6_3_tessellation"/> are the only regular tessallation in the Eulidean plane.
             </p>
             <proof>
-              <p>The outer angle of a regular <m>n</m>-gon in the Euclidean plane equals <m>\alpha := 180° - \frac{360°}{n}</m>. Since <m>m</m> regular <m>n</m>-gons are coming together in a corner, we have <m>360° = m\cdot \alpha = m\cdot ( 180° - \frac{360°}{n})</m>. After dividing by <m>m\cdot 360°</m> and bringing <m>\frac{1}{n}</m> to the other side, we have <m>\frac{1}{n} + \frac{1}{m} = \frac{1}{2}</m></p>.
+              <p>The interior angle of a regular <m>n</m>-gon in the Euclidean plane equals <m>\alpha := 180° - \frac{360°}{n}</m>. Since <m>m</m> regular <m>n</m>-gons are coming together in a corner, we have <m>360° = m\cdot \alpha = m\cdot ( 180° - \frac{360°}{n})</m>. After dividing by <m>m\cdot 360°</m> and bringing <m>\frac{1}{n}</m> to the other side, we have <m>\frac{1}{n} + \frac{1}{m} = \frac{1}{2}</m></p>.
               <figure xml:id="explaining_the_proof_of_the_equation">
                 <caption>TODO</caption>
                 <image source="images/test_image.svg" width="50%"></image>
               </figure>
-              <p>The proof that the <m>(n,m)</m>-pairs <m>(3,6)</m>, <m>(4,4)</m> and <m>(6,3)</m> are the only solutions follows as next.</p>
+              <p>As next, we show that the <m>(n,m)</m>-pairs <m>(3,6)</m>, <m>(4,4)</m> and <m>(6,3)</m> are the only solutions to this equation.</p>
             </proof>
           </theorem>
           <p>
@@ -128,13 +142,14 @@
               <caption>TODO</caption>
               <image source="images/test_image.svg" width="50%"></image>
             </figure>
-            In this matrix we see that there are exactly five <m>(n,m)</m>-pairs with <m>\frac{1}{n} + \frac{1}{m} > \frac{1}{2}</m>, exactly three  <m>(n,m)</m>-pairs with <m>\frac{1}{n} + \frac{1}{m} = \frac{1}{2}</m> and infinitely many  <m>(n,m)</m>-pairs with <m>\frac{1}{n} + \frac{1}{m}  \frac{1}{2}</m>. These three types corresponds to the spherical, Euclidean and hyperbolic tessellations, which are shown for <m>3 \leq n, m \leq 8</m> in the following figure:
+            To obtain <m>\frac{1}{n} + \frac{1}{m} >= \frac{1}{2}</m>, either <m>n \seq 6</m> or <m> m \sme6 </m> must hold. Hence for <m>n, m >= 6</m> we always have <m>\frac{1}{n} + \frac{1}{m} \sm \frac{1}{2}</m>.
+            With this in mind we find out that there are exactly five <m>(n,m)</m>-pairs with <m>\frac{1}{n} + \frac{1}{m} > \frac{1}{2}</m> and exactly three  <m>(n,m)</m>-pairs with <m>\frac{1}{n} + \frac{1}{m} = \frac{1}{2}</m> and infinitely many  <m>(n,m)</m>-pairs with <m>\frac{1}{n} + \frac{1}{m}  \frac{1}{2}</m>. These three types corresponds to the spherical, Euclidean and hyperbolic tessellations, which are shown for <m>3 \leq n, m \leq 8</m> in the following figure:
             <figure xml:id="n_m_matrix_with_tessellations">
               <caption>TODO</caption>
               <image source="images/test_image.svg" width="50%"></image>
             </figure>
-
-            TODO
+            The five solutions with ??? are the five ???, projected to the sphere. Hence, the geometry on the sphere is the geometry where regular tesselation with ??? occurs.
+            The natural question which occurs now is, wheter there is also a geometry where the infinitely many solutions with ??? are regular tesselations. The answer is yes: hyerbolic geometry. In the remaining of the text we will work out this very interesting and beautiful geometry. In the end we will be able to draw all regular tesselations as shown in ???.
           </p>
         </section>
     </chapter>
