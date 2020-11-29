@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="40.17095572181874cm"
+     height="40.17095572181875cm"
+     viewBox="0 0 426 426"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip18ababb0-e4cb-43dc-bcbe-54718304f879">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#c0c0c0">
+  <path d="M 0.0000 0.0000 L 1309.0 0.0000 L 1309.0 998.00 L 0.0000 998.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip867b5b9c-3953-4d15-8194-5798b41def4b">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 629.55 1003.0 L 629.55 -5.0000"/>
+<title>Gerade f</title>
+<desc>Gerade f: Linie C, A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip3eabc746-1745-4739-8fa5-c33995777dc2">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 638.05 15.000 L 638.05 9.5938 L 637.11 9.5938 L 637.11 8.7812 L 638.05 8.7812 L 638.05 8.1094 Q 638.05 7.4844 638.16 7.1875 Q 638.31 6.7656 638.70 6.5156 Q 639.08 6.2656 639.77 6.2656 Q 640.22 6.2656 640.75 6.3750 L 640.59 7.2812 Q 640.27 7.2344 639.97 7.2344 Q 639.48 7.2344 639.29 7.4375 Q 639.09 7.6406 639.09 8.2031 L 639.09 8.7812 L 640.31 8.7812 L 640.31 9.5938 L 639.09 9.5938 L 639.09 15.000 L 638.05 15.000 z"/>
+<title>Gerade f</title>
+<desc>Gerade f: Linie C, A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip88e3c81d-ae69-45c0-8c1a-179579a07f6e">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M -5.0000 608.19 L 1314.0 608.19"/>
+<title>Gerade g</title>
+<desc>Gerade g: Linie A, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip21f3945e-20a0-4693-ba4b-867a8745b071">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 5.5938 600.52 L 6.6250 600.67 Q 6.6875 601.14 6.9844 601.36 Q 7.3750 601.66 8.0469 601.66 Q 8.7812 601.66 9.1797 601.36 Q 9.5781 601.06 9.7188 600.55 Q 9.8125 600.22 9.7969 599.19 Q 9.1094 600.00 8.0781 600.00 Q 6.7969 600.00 6.0938 599.07 Q 5.3906 598.14 5.3906 596.86 Q 5.3906 595.97 5.7109 595.21 Q 6.0312 594.45 6.6406 594.05 Q 7.2500 593.64 8.0781 593.64 Q 9.1875 593.64 9.9062 594.53 L 9.9062 593.78 L 10.875 593.78 L 10.875 599.16 Q 10.875 600.61 10.578 601.22 Q 10.281 601.83 9.6406 602.18 Q 9.0000 602.53 8.0625 602.53 Q 6.9531 602.53 6.2656 602.03 Q 5.5781 601.53 5.5938 600.52 z M 6.4688 596.78 Q 6.4688 598.00 6.9531 598.56 Q 7.4375 599.12 8.1719 599.12 Q 8.9062 599.12 9.3984 598.56 Q 9.8906 598.00 9.8906 596.81 Q 9.8906 595.67 9.3828 595.09 Q 8.8750 594.52 8.1562 594.52 Q 7.4531 594.52 6.9609 595.09 Q 6.4688 595.66 6.4688 596.78 z"/>
+<title>Gerade g</title>
+<desc>Gerade g: Linie A, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip9465a793-edbd-402e-8a96-386a1ac05542">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 735.84 1003.0 L 735.84 -5.0000"/>
+<title>Gerade h</title>
+<desc>Gerade h: Linie D, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip4cc44789-97c4-421c-8fea-a5065a3a3dec">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 719.80 15.000 L 719.80 6.4062 L 720.84 6.4062 L 720.84 9.4844 Q 721.58 8.6406 722.70 8.6406 Q 723.41 8.6406 723.91 8.9141 Q 724.42 9.1875 724.64 9.6641 Q 724.86 10.141 724.86 11.062 L 724.86 15.000 L 723.81 15.000 L 723.81 11.062 Q 723.81 10.266 723.47 9.9062 Q 723.12 9.5469 722.50 9.5469 Q 722.03 9.5469 721.62 9.7891 Q 721.20 10.031 721.02 10.445 Q 720.84 10.859 720.84 11.594 L 720.84 15.000 L 719.80 15.000 z"/>
+<title>Gerade h</title>
+<desc>Gerade h: Linie D, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipf845672c-9110-4125-aafd-096daae9362c">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M -5.0000 501.90 L 1314.0 501.90"/>
+<title>Gerade i</title>
+<desc>Gerade i: Linie C, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipf65e3167-23cf-4819-ab75-54c1b165ccab">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 5.7969 485.62 L 5.7969 484.41 L 6.8594 484.41 L 6.8594 485.62 L 5.7969 485.62 z M 5.7969 493.00 L 5.7969 486.78 L 6.8594 486.78 L 6.8594 493.00 L 5.7969 493.00 z"/>
+<title>Gerade i</title>
+<desc>Gerade i: Linie C, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipcf7f349b-d151-40b0-93c9-aa2599e9bf0c">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M -5.0000 395.60 L 1314.0 395.60"/>
+<title>Gerade g&apos;</title>
+<desc>Gerade g&apos;: g gespiegelt an i</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip8c88d539-a3a6-4f67-bf46-854919d79023">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 5.5938 411.52 L 6.6250 411.67 Q 6.6875 412.14 6.9844 412.36 Q 7.3750 412.66 8.0469 412.66 Q 8.7812 412.66 9.1797 412.36 Q 9.5781 412.06 9.7188 411.55 Q 9.8125 411.22 9.7969 410.19 Q 9.1094 411.00 8.0781 411.00 Q 6.7969 411.00 6.0938 410.07 Q 5.3906 409.14 5.3906 407.86 Q 5.3906 406.97 5.7109 406.21 Q 6.0312 405.45 6.6406 405.05 Q 7.2500 404.64 8.0781 404.64 Q 9.1875 404.64 9.9062 405.53 L 9.9062 404.78 L 10.875 404.78 L 10.875 410.16 Q 10.875 411.61 10.578 412.22 Q 10.281 412.83 9.6406 413.18 Q 9.0000 413.53 8.0625 413.53 Q 6.9531 413.53 6.2656 413.03 Q 5.5781 412.53 5.5938 411.52 z M 6.4688 407.78 Q 6.4688 409.00 6.9531 409.56 Q 7.4375 410.12 8.1719 410.12 Q 8.9062 410.12 9.3984 409.56 Q 9.8906 409.00 9.8906 407.81 Q 9.8906 406.67 9.3828 406.09 Q 8.8750 405.52 8.1562 405.52 Q 7.4531 405.52 6.9609 406.09 Q 6.4688 406.66 6.4688 407.78 z M 12.471 405.45 L 12.205 403.84 L 12.205 402.41 L 13.408 402.41 L 13.408 403.84 L 13.127 405.45 L 12.471 405.45 z"/>
+<title>Gerade g&apos;</title>
+<desc>Gerade g&apos;: g gespiegelt an i</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip69248248-7dbc-4c06-9e76-41ee49eaf0fa">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M -5.0000 289.31 L 1314.0 289.31"/>
+<title>Gerade i&apos;</title>
+<desc>Gerade i&apos;: i gespiegelt an g&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip717aa678-0053-48c1-9d73-c939267413ec">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 5.7969 297.62 L 5.7969 296.41 L 6.8594 296.41 L 6.8594 297.62 L 5.7969 297.62 z M 5.7969 305.00 L 5.7969 298.78 L 6.8594 298.78 L 6.8594 305.00 L 5.7969 305.00 z M 8.4629 299.45 L 8.1973 297.84 L 8.1973 296.41 L 9.4004 296.41 L 9.4004 297.84 L 9.1191 299.45 L 8.4629 299.45 z"/>
+<title>Gerade i&apos;</title>
+<desc>Gerade i&apos;: i gespiegelt an g&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip93618dc5-247c-495d-baec-d33c93e1a27f">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M -5.0000 183.01 L 1314.0 183.01"/>
+<title>Gerade g&apos;&apos;</title>
+<desc>Gerade g&apos;&apos;: g&apos; gespiegelt an i&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipd50b716e-2b2b-4eb7-82e6-bad97b3bd6dd">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 5.5938 199.52 L 6.6250 199.67 Q 6.6875 200.14 6.9844 200.36 Q 7.3750 200.66 8.0469 200.66 Q 8.7812 200.66 9.1797 200.36 Q 9.5781 200.06 9.7188 199.55 Q 9.8125 199.22 9.7969 198.19 Q 9.1094 199.00 8.0781 199.00 Q 6.7969 199.00 6.0938 198.07 Q 5.3906 197.14 5.3906 195.86 Q 5.3906 194.97 5.7109 194.21 Q 6.0312 193.45 6.6406 193.05 Q 7.2500 192.64 8.0781 192.64 Q 9.1875 192.64 9.9062 193.53 L 9.9062 192.78 L 10.875 192.78 L 10.875 198.16 Q 10.875 199.61 10.578 200.22 Q 10.281 200.83 9.6406 201.18 Q 9.0000 201.53 8.0625 201.53 Q 6.9531 201.53 6.2656 201.03 Q 5.5781 200.53 5.5938 199.52 z M 6.4688 195.78 Q 6.4688 197.00 6.9531 197.56 Q 7.4375 198.12 8.1719 198.12 Q 8.9062 198.12 9.3984 197.56 Q 9.8906 197.00 9.8906 195.81 Q 9.8906 194.67 9.3828 194.09 Q 8.8750 193.52 8.1562 193.52 Q 7.4531 193.52 6.9609 194.09 Q 6.4688 194.66 6.4688 195.78 z M 12.471 193.45 L 12.205 191.84 L 12.205 190.41 L 13.408 190.41 L 13.408 191.84 L 13.127 193.45 L 12.471 193.45 z M 14.762 193.45 L 14.496 191.84 L 14.496 190.41 L 15.699 190.41 L 15.699 191.84 L 15.418 193.45 L 14.762 193.45 z"/>
+<title>Gerade g&apos;&apos;</title>
+<desc>Gerade g&apos;&apos;: g&apos; gespiegelt an i&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipbba2120f-ca24-4c92-a877-b3e17112d707">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 842.14 1003.0 L 842.14 -5.0000"/>
+<title>Gerade f&apos;</title>
+<desc>Gerade f&apos;: f gespiegelt an h</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip198c298f-efca-488f-a8ad-e4a16e41b9a2">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 827.05 15.000 L 827.05 9.5938 L 826.11 9.5938 L 826.11 8.7812 L 827.05 8.7812 L 827.05 8.1094 Q 827.05 7.4844 827.16 7.1875 Q 827.31 6.7656 827.70 6.5156 Q 828.08 6.2656 828.77 6.2656 Q 829.22 6.2656 829.75 6.3750 L 829.59 7.2812 Q 829.27 7.2344 828.97 7.2344 Q 828.48 7.2344 828.29 7.4375 Q 828.09 7.6406 828.09 8.2031 L 828.09 8.7812 L 829.31 8.7812 L 829.31 9.5938 L 828.09 9.5938 L 828.09 15.000 L 827.05 15.000 z M 830.13 9.4531 L 829.87 7.8438 L 829.87 6.4062 L 831.07 6.4062 L 831.07 7.8438 L 830.79 9.4531 L 830.13 9.4531 z"/>
+<title>Gerade f&apos;</title>
+<desc>Gerade f&apos;: f gespiegelt an h</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip94614e90-3288-44af-baf7-b932b34ea546">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 948.44 1003.0 L 948.44 -5.0000"/>
+<title>Gerade h&apos;</title>
+<desc>Gerade h&apos;: h gespiegelt an f&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip3ea008cd-7abc-4ab2-afcb-60844c401ede">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 932.80 15.000 L 932.80 6.4062 L 933.84 6.4062 L 933.84 9.4844 Q 934.58 8.6406 935.70 8.6406 Q 936.41 8.6406 936.91 8.9141 Q 937.42 9.1875 937.64 9.6641 Q 937.86 10.141 937.86 11.062 L 937.86 15.000 L 936.81 15.000 L 936.81 11.062 Q 936.81 10.266 936.47 9.9062 Q 936.12 9.5469 935.50 9.5469 Q 935.03 9.5469 934.62 9.7891 Q 934.20 10.031 934.02 10.445 Q 933.84 10.859 933.84 11.594 L 933.84 15.000 L 932.80 15.000 z M 939.47 9.4531 L 939.21 7.8438 L 939.21 6.4062 L 940.41 6.4062 L 940.41 7.8438 L 940.13 9.4531 L 939.47 9.4531 z"/>
+<title>Gerade h&apos;</title>
+<desc>Gerade h&apos;: h gespiegelt an f&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip9864c4d0-f2c9-4ab9-8602-1b2e460e1780">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 1054.7 1003.0 L 1054.7 -5.0000"/>
+<title>Gerade f&apos;&apos;</title>
+<desc>Gerade f&apos;&apos;: f&apos; gespiegelt an h&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip34cd5185-3dbb-4481-9d48-35063a0cd073">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 1039.0 15.000 L 1039.0 9.5938 L 1038.1 9.5938 L 1038.1 8.7812 L 1039.0 8.7812 L 1039.0 8.1094 Q 1039.0 7.4844 1039.2 7.1875 Q 1039.3 6.7656 1039.7 6.5156 Q 1040.1 6.2656 1040.8 6.2656 Q 1041.2 6.2656 1041.8 6.3750 L 1041.6 7.2812 Q 1041.3 7.2344 1041.0 7.2344 Q 1040.5 7.2344 1040.3 7.4375 Q 1040.1 7.6406 1040.1 8.2031 L 1040.1 8.7812 L 1041.3 8.7812 L 1041.3 9.5938 L 1040.1 9.5938 L 1040.1 15.000 L 1039.0 15.000 z M 1042.1 9.4531 L 1041.9 7.8438 L 1041.9 6.4062 L 1043.1 6.4062 L 1043.1 7.8438 L 1042.8 9.4531 L 1042.1 9.4531 z M 1044.4 9.4531 L 1044.2 7.8438 L 1044.2 6.4062 L 1045.4 6.4062 L 1045.4 7.8438 L 1045.1 9.4531 L 1044.4 9.4531 z"/>
+<title>Gerade f&apos;&apos;</title>
+<desc>Gerade f&apos;&apos;: f&apos; gespiegelt an h&apos;</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipfd070e22-41f0-477a-848a-c482900fe5a1">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 523.25 1003.0 L 523.25 -5.0000"/>
+<title>Gerade h&apos;_1</title>
+<desc>Gerade h&apos;_1: h gespiegelt an f</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip7efb34fe-d17a-42a8-9be1-eca8a83ad85f">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 531.80 17.000 L 531.80 8.4062 L 532.84 8.4062 L 532.84 11.484 Q 533.58 10.641 534.70 10.641 Q 535.41 10.641 535.91 10.914 Q 536.42 11.188 536.64 11.664 Q 536.86 12.141 536.86 13.062 L 536.86 17.000 L 535.81 17.000 L 535.81 13.062 Q 535.81 12.266 535.47 11.906 Q 535.12 11.547 534.50 11.547 Q 534.03 11.547 533.62 11.789 Q 533.20 12.031 533.02 12.445 Q 532.84 12.859 532.84 13.594 L 532.84 17.000 L 531.80 17.000 z M 538.47 11.453 L 538.21 9.8438 L 538.21 8.4062 L 539.41 8.4062 L 539.41 9.8438 L 539.13 11.453 L 538.47 11.453 z"/>
+<title>Gerade h&apos;_1</title>
+<desc>Gerade h&apos;_1: h gespiegelt an f</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip7e3d3abd-e6d1-4639-b1b2-3c072d9c80ec">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 543.68 22.000 L 542.81 22.000 L 542.81 16.406 Q 542.50 16.703 541.98 17.008 Q 541.46 17.312 541.06 17.453 L 541.06 16.609 Q 541.79 16.266 542.35 15.773 Q 542.90 15.281 543.12 14.812 L 543.68 14.812 L 543.68 22.000 z"/>
+<title>Gerade h&apos;_1</title>
+<desc>Gerade h&apos;_1: h gespiegelt an f</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip24 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip2ed5d865-facb-4d73-bcac-2b9f03ce2be0">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 416.96 1003.0 L 416.96 -5.0000"/>
+<title>Gerade f&apos;_1</title>
+<desc>Gerade f&apos;_1: f gespiegelt an h&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip25 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip2564e4d9-deec-464e-a807-3fcc99fa8794">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 425.05 17.000 L 425.05 11.594 L 424.11 11.594 L 424.11 10.781 L 425.05 10.781 L 425.05 10.109 Q 425.05 9.4844 425.16 9.1875 Q 425.31 8.7656 425.70 8.5156 Q 426.08 8.2656 426.77 8.2656 Q 427.22 8.2656 427.75 8.3750 L 427.59 9.2812 Q 427.27 9.2344 426.97 9.2344 Q 426.48 9.2344 426.29 9.4375 Q 426.09 9.6406 426.09 10.203 L 426.09 10.781 L 427.31 10.781 L 427.31 11.594 L 426.09 11.594 L 426.09 17.000 L 425.05 17.000 z M 428.13 11.453 L 427.87 9.8438 L 427.87 8.4062 L 429.07 8.4062 L 429.07 9.8438 L 428.79 11.453 L 428.13 11.453 z"/>
+<title>Gerade f&apos;_1</title>
+<desc>Gerade f&apos;_1: f gespiegelt an h&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip26 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="cliped77e8f0-e32a-4f26-b35d-559ec0ed96d6">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 433.34 22.000 L 432.47 22.000 L 432.47 16.406 Q 432.16 16.703 431.64 17.008 Q 431.12 17.312 430.72 17.453 L 430.72 16.609 Q 431.45 16.266 432.01 15.773 Q 432.56 15.281 432.78 14.812 L 433.34 14.812 L 433.34 22.000 z"/>
+<title>Gerade f&apos;_1</title>
+<desc>Gerade f&apos;_1: f gespiegelt an h&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip27 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipf585b64e-f449-4f80-94d2-9011ffd92c54">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 310.66 1003.0 L 310.66 -5.0000"/>
+<title>Gerade j</title>
+<desc>Gerade j: h&apos;_1 gespiegelt an f&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip28 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip6dc0a062-bf06-46a7-b2e6-69e6edfaeebc">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 318.78 7.6406 L 318.78 6.4062 L 319.84 6.4062 L 319.84 7.6406 L 318.78 7.6406 z M 317.45 17.422 L 317.64 16.516 Q 317.97 16.594 318.14 16.594 Q 318.47 16.594 318.62 16.383 Q 318.78 16.172 318.78 15.312 L 318.78 8.7812 L 319.84 8.7812 L 319.84 15.344 Q 319.84 16.484 319.55 16.938 Q 319.16 17.531 318.28 17.531 Q 317.84 17.531 317.45 17.422 z"/>
+<title>Gerade j</title>
+<desc>Gerade j: h&apos;_1 gespiegelt an f&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip29 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipb1be61ff-dac4-40f4-9ba5-8c2381dc129d">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M 204.37 1003.0 L 204.37 -5.0000"/>
+<title>Gerade k</title>
+<desc>Gerade k: f&apos;_1 gespiegelt an j</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip30 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip1b3daa44-9cb7-4f30-88a4-9acd2506f18a">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 212.80 15.000 L 212.80 6.4062 L 213.86 6.4062 L 213.86 11.312 L 216.34 8.7812 L 217.72 8.7812 L 215.33 11.078 L 217.95 15.000 L 216.66 15.000 L 214.59 11.812 L 213.86 12.531 L 213.86 15.000 L 212.80 15.000 z"/>
+<title>Gerade k</title>
+<desc>Gerade k: f&apos;_1 gespiegelt an j</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip31 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip6c1696be-7813-47eb-b211-62a2b08c85a6">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M -5.0000 714.49 L 1314.0 714.49"/>
+<title>Gerade i&apos;_1</title>
+<desc>Gerade i&apos;_1: i gespiegelt an g</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip32 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipc857437a-edf0-4f38-b7a5-ffd6c10822c2">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 5.7969 698.62 L 5.7969 697.41 L 6.8594 697.41 L 6.8594 698.62 L 5.7969 698.62 z M 5.7969 706.00 L 5.7969 699.78 L 6.8594 699.78 L 6.8594 706.00 L 5.7969 706.00 z M 8.4629 700.45 L 8.1973 698.84 L 8.1973 697.41 L 9.4004 697.41 L 9.4004 698.84 L 9.1191 700.45 L 8.4629 700.45 z"/>
+<title>Gerade i&apos;_1</title>
+<desc>Gerade i&apos;_1: i gespiegelt an g</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip33 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clipdb4cd817-0f33-4fb1-a876-9089374a0d04">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 13.676 711.00 L 12.801 711.00 L 12.801 705.41 Q 12.488 705.70 11.973 706.01 Q 11.457 706.31 11.051 706.45 L 11.051 705.61 Q 11.785 705.27 12.340 704.77 Q 12.895 704.28 13.113 703.81 L 13.676 703.81 L 13.676 711.00 z"/>
+<title>Gerade i&apos;_1</title>
+<desc>Gerade i&apos;_1: i gespiegelt an g</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip34 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip1af52468-4b70-4dc1-86ea-e9880c6e08d0">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity=".69804" stroke="#000000">
+  <path d="M -5.0000 820.78 L 1314.0 820.78"/>
+<title>Gerade g&apos;_1</title>
+<desc>Gerade g&apos;_1: g gespiegelt an i&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip35 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip7947b43b-2dc4-46ae-a9bf-1813f33011ce">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 5.5938 812.52 L 6.6250 812.67 Q 6.6875 813.14 6.9844 813.36 Q 7.3750 813.66 8.0469 813.66 Q 8.7812 813.66 9.1797 813.36 Q 9.5781 813.06 9.7188 812.55 Q 9.8125 812.22 9.7969 811.19 Q 9.1094 812.00 8.0781 812.00 Q 6.7969 812.00 6.0938 811.07 Q 5.3906 810.14 5.3906 808.86 Q 5.3906 807.97 5.7109 807.21 Q 6.0312 806.45 6.6406 806.05 Q 7.2500 805.64 8.0781 805.64 Q 9.1875 805.64 9.9062 806.53 L 9.9062 805.78 L 10.875 805.78 L 10.875 811.16 Q 10.875 812.61 10.578 813.22 Q 10.281 813.83 9.6406 814.18 Q 9.0000 814.53 8.0625 814.53 Q 6.9531 814.53 6.2656 814.03 Q 5.5781 813.53 5.5938 812.52 z M 6.4688 808.78 Q 6.4688 810.00 6.9531 810.56 Q 7.4375 811.12 8.1719 811.12 Q 8.9062 811.12 9.3984 810.56 Q 9.8906 810.00 9.8906 808.81 Q 9.8906 807.67 9.3828 807.09 Q 8.8750 806.52 8.1562 806.52 Q 7.4531 806.52 6.9609 807.09 Q 6.4688 807.66 6.4688 808.78 z M 12.471 806.45 L 12.205 804.84 L 12.205 803.41 L 13.408 803.41 L 13.408 804.84 L 13.127 806.45 L 12.471 806.45 z"/>
+<title>Gerade g&apos;_1</title>
+<desc>Gerade g&apos;_1: g gespiegelt an i&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip36 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -363.81, -342.45)">
+<clipPath id="clip8f3e990c-a3d1-4ca2-afad-a566cffffba5">
+  <path d="M 363.81 342.45 L 363.81 769.45 L 790.81 769.45 L 790.81 342.45 z"/>
+</clipPath>
+<g clip-path="url(#clip37)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 17.684 817.00 L 16.809 817.00 L 16.809 811.41 Q 16.496 811.70 15.980 812.01 Q 15.465 812.31 15.059 812.45 L 15.059 811.61 Q 15.793 811.27 16.348 810.77 Q 16.902 810.28 17.121 809.81 L 17.684 809.81 L 17.684 817.00 z"/>
+<title>Gerade g&apos;_1</title>
+<desc>Gerade g&apos;_1: g gespiegelt an i&apos;_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip37 -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->
