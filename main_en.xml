@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pretext>
   <book xml:id="book-regtes-hypgeo">
-    <title>Reguläre Parkettierungen und hyperbolische Geometrie</title>
-    <subtitle>Eine konstruktive Einführung (ohne Terme und Formeln)</subtitle>
+    <title>Regular Tessellations and hyperbolic Geometry</title>
+    <subtitle>An Approach by Constructions (without Terms and Formulas)</subtitle>
 
-	<chapter xml:id="chapter-introduction">
-		<title>Drei Typen von Geometrie</title>
-			<p>
-				Ein tiefes Theorem der höhreren Mathematik besagt, dass es im wesentlichen drei Typen von Geometrie gibt. Die erste ist die euklidische Geometrie, welche wir alle aus der Schule kennen. Auch der zweite Typ ist uns wohl bekannt: es ist die Geometrie auf der Kugeloberfläche. Der dritte Typ wurde erst Anfang des 19. Jahrhunderts entdeckt. Diese Geometrie taucht nicht in so offensichtlicher Weise in der Natur auf wie die ersten beiden und ist vielleicht auch intuitiv schwieriger zugänglich. Vom mathematischen Reichtum und der Schönheit her ist sie aber den beiden anderen Geometrienaber mindestens ebenbürtig. Es handelt sich um die hyperbolische Geometrie.
-			</p>
-			
-			<p>
-				Die Welt, in welcher wir euklidische Geometrie betreiben, ist flach. Im 2-dimensionalen findet die Geometrie in der unendlich weit ausgebreiteten Ebene statt. Es gibt keine Berge und Täler. Viele Dinge erscheinen uns in der euklidischen Geometrie offensichtlich, vielleicht fast schon langweilig. Es ist uns z.B. völlig klar, dass die kürzeste Verbindung zwischen zwei Punkten die gerade Strecke zwischen diesen beiden Punkten ist.
-				In der Schule lernen wir eine Menge über die euklidische Geometrie. Z.B. wissen wir alle, dass die Winkelsumme im Dreieck 180° beträgt oder wie sich die Fläche eines Dreiecks berechnen lässt (als die Hälfte des Produkts aus Grundseite und Höhe). In den 
-			</p>
-	</chapter>
-		
-	
+
     <chapter xml:id="chapter-regtes">
-		<title>Reguläre Parkettierungen</title>
+      <title>Regular Tessellations</title>
 
         <introduction>
           <p>
